@@ -1,11 +1,11 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from sentence_transformers import SentenceTransformer
 import json
 import faiss
 import re
 import numpy as np
+import os
 
 app = FastAPI()
 
@@ -17,8 +17,17 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# Lazy load do modelo para economizar memória no deploy
+model = None
 
+def get_model():
+    global model
+    if model is None:
+        from sentence_transformers import SentenceTransformer
+        model = SentenceTransformer('all-MiniLM-L6-v2')
+    return model
+
+# Carregando produtos
 with open("produtos.json", "r", encoding="utf-8") as f:
     produtos = json.load(f)
 
@@ -86,7 +95,6 @@ def detectar_serie(prompt):
         "display industrial", "touchscreen", "automacao", "manufatura"
     ]
 
-
     if any(k in prompt for k in epc_keywords):
         return "EPC"
     if any(k in prompt for k in ark_keywords):
@@ -118,6 +126,7 @@ def recomendar(input: UserInput):
     produtos_serie_filtrados = filtrar_por_serie_detectada(produtos, serie_detectada)
     produtos_filtrados = filtrar_produtos_por_numeros(produtos_serie_filtrados, numeros_consulta)
 
+    model = get_model()
     produtos_textos_filtrados = [
         f"{p['nome']} {p['desc']} {' '.join(p['detalhes'])}" for p in produtos_filtrados
     ]
@@ -135,9 +144,14 @@ def recomendar(input: UserInput):
     distances, indices = index_filtrado.search(input_embedding, k)
     recomendados = [produtos_filtrados[i] for i in indices[0]]
 
-    
     for p in recomendados:
         if 'product_url' not in p or not p['product_url']:
             p['product_url'] = "#"  
 
     return {"recomendados": recomendados}
+
+# Configuração do uvicorn para Render
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))
+    import uvicorn
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
