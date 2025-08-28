@@ -1,5 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import json
 import faiss
@@ -9,17 +11,20 @@ import os
 
 app = FastAPI()
 
+# CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["*"],  # liberando para qualquer origem
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"]
 )
 
-# Lazy load do modelo para economizar memória no deploy
-model = None
+# Servir arquivos estáticos do React
+app.mount("/static", StaticFiles(directory="frontend/build/static"), name="static")
 
+# Lazy load do modelo
+model = None
 def get_model():
     global model
     if model is None:
@@ -31,6 +36,7 @@ def get_model():
 with open("produtos.json", "r", encoding="utf-8") as f:
     produtos = json.load(f)
 
+# Funções auxiliares (extrair_numeros, filtrar_produtos, detectar_serie etc.) mantidas
 def extrair_numeros(texto):
     return re.findall(r'\b\d+\b', texto)
 
@@ -49,51 +55,39 @@ def filtrar_produtos_por_numeros(produtos, numeros):
 
 def detectar_serie(prompt):
     prompt = prompt.lower()
-
-    ark_keywords = [
-        "ark", "fanless", "intel core", "xeon", "embedded box pc", "industrial",
+    # lista de keywords (ark_keywords, epc_keywords...) mantidas
+    ark_keywords = ["ark", "fanless", "intel core", "xeon", "embedded box pc", "industrial",
         "automacao industrial", "iot", "visao computacional", "i/o expansivel",
         "modular", "robusto", "temperatura ampla", "gerenciamento remoto",
         "pci", "pc industrial", "expansao pci", "machine vision", "ai", "gpu",
-        "data acquisition", "comunicacao", "cabinet integration"
-    ]
+        "data acquisition", "comunicacao", "cabinet integration"]
 
-    epc_keywords = [
-        "epc", "epc-", "epc fanless", "epc intel", "epc box", "edge pc",
+    epc_keywords = ["epc", "epc-", "epc fanless", "epc intel", "epc box", "edge pc",
         "edge computing", "computador compacto", "servidor compacto", "alto desempenho",
         "computacao de borda", "din-rail", "m2", "m.2", "usb", "lan", "rs232",
-        "rs485", "isolado", "canbus", "iot gateway", "edge ai", "gateway"
-    ]
+        "rs485", "isolado", "canbus", "iot gateway", "edge ai", "gateway"]
 
-    ubx_keywords = [
-        "ubx", "ubx series", "ubx fanless", "ubx industrial", "mini pc",
+    ubx_keywords = ["ubx", "ubx series", "ubx fanless", "ubx industrial", "mini pc",
         "ultra compacto", "tiny pc", "pc pequeno", "formato reduzido",
         "sem ventoinha pequeno", "kiosk pc", "pdv", "pos system",
         "display", "touchscreen", "hmi", "interface homem maquina",
-        "sinalizacao digital", "retalho", "ponto de venda"
-    ]
+        "sinalizacao digital", "retalho", "ponto de venda"]
 
-    air_keywords = [
-        "air", "ai inference system", "ai inference", "gpu", "deep learning",
+    air_keywords = ["air", "ai inference system", "ai inference", "gpu", "deep learning",
         "visao computacional", "inteligencia artificial", "edge ai",
         "processamento de imagem", "ai pc", "sdk", "ros", "openvino",
         "intel edge insights", "robotic sdk", "iot analytics",
-        "manufacturing ai", "healthcare ai", "retail ai"
-    ]
+        "manufacturing ai", "healthcare ai", "retail ai"]
 
-    ids_keywords = [
-        "monitor industrial", "display industrial", "tela robusta",
+    ids_keywords = ["monitor industrial", "display industrial", "tela robusta",
         "touchscreen industrial", "hmi", "painel de controle", "painel touch",
         "interface homem maquina", "painel mount", "ip65", "ip67",
-        "resistente a agua", "resistente a poeira", "industria", "automacao"
-    ]
+        "resistente a agua", "resistente a poeira", "industria", "automacao"]
 
-    idk_keywords = [
-        "open frame", "display leve", "tela fina", "kit de display",
+    idk_keywords = ["open frame", "display leve", "tela fina", "kit de display",
         "display embutido", "modulo de tela", "display para integracao",
         "sem moldura", "integracao personalizada", "OEM", "panel mount",
-        "display industrial", "touchscreen", "automacao", "manufatura"
-    ]
+        "display industrial", "touchscreen", "automacao", "manufatura"]
 
     if any(k in prompt for k in epc_keywords):
         return "EPC"
@@ -114,9 +108,11 @@ def filtrar_por_serie_detectada(produtos, serie_detectada):
         return produtos
     return [p for p in produtos if p['nome'].upper().startswith(serie_detectada)]
 
+# Modelo de input
 class UserInput(BaseModel):
     texto: str
 
+# Rota API
 @app.post("/recomendar")
 def recomendar(input: UserInput):
     texto_cliente = input.texto.lower()
@@ -150,7 +146,13 @@ def recomendar(input: UserInput):
 
     return {"recomendados": recomendados}
 
-# Configuração do uvicorn para Render
+# Rota raiz para React
+@app.get("/")
+def raiz():
+    index_path = os.path.join("frontend", "build", "index.html")
+    return FileResponse(index_path)
+
+# Configuração uvicorn para Render
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))
     import uvicorn
