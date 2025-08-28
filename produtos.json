@@ -1,0 +1,1846 @@
+[
+  {
+    "nome": "ARK-2121S",
+    "desc": "Outdoor NVR w/4 PoE Ports Intel® Atom E3845 SoC Fanless Box PC",
+    "detalhes": [
+      "Intel® Atom E3845 Quad Core 1.91 GHz SoC",
+      "4 PoE ports to support mainstream IP cameras",
+      "3 kV isolation for 6 × DI & 2 × DO",
+      "WWAN/WLAN communication support",
+      "9–36 VDC wide power input with isolation",
+      "Hot-swappable 2.5″ drive bay",
+      "Supports iManager, SUSIAccess and Embedded APIs",
+      "No RED Certification"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-flnuyz/ark-2121s/mod_fab8bb78-ee4f-4c8d-9584-9da7ddd9d28e"
+  },
+  {
+    "nome": "ARK-2250S",
+    "desc": "Fanless System powered by 6th Gen Intel Core i7-6822EQ QC / i5-6442EQ QC for In-vehicle",
+    "detalhes": [
+      "Intel i7-6822EQ QC or i5-6442EQ QC SoC",
+      "Built-in GPS engine and vehicle power ignition management",
+      "12/24 VDC vehicle power input support",
+      "Stackable extension design",
+      "Support diversity communication (WLAN, WWAN)",
+      "Shock and vibration certified: IEC 60721-3-5 5M3, MIL-STD-810G",
+      "Built-in WISE-PaaS/RMM",
+      "Safety certifications UL, CCC, BSMI, CB, E-Mark (No RED)"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-flnuyz/ark-2250s/mod_d5e55c18-f604-44c6-9f66-d024ea0fb68b"
+  },
+  {
+    "nome": "ARK-2250R",
+    "desc": "Fanless System powered by 6th Gen Intel Core i7-6822EQ QC / i5-6442EQ QC for Rolling Stock",
+    "detalhes": [
+      "Intel i7-6822EQ QC or i5-6442EQ QC SoC",
+      "-40 °C to 70 °C wide temperature support with EN50155 TX compliance",
+      "LAN/USB/Audio/COM and onboard GPS",
+      "DC 24 V, optional DC 48/72/110 V",
+      "Redundant power input support",
+      "Anti-vibration/shock proof, IEC 61373 Category 1, Class B",
+      "Stackable extension design",
+      "Built-in WISE-PaaS/RMM",
+      "Safety certifications UL, CCC, BSMI, CB, EN50155 (No RED)"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-flnuyz/ark-2250r/mod_3418c5e4-14af-4909-b587-5344077435e3"
+  },
+  {
+    "nome": "ARK-2231R",
+    "desc": "Fanless system powered by Intel® Atom E3845 for Rolling Stock",
+    "detalhes": [
+      "Intel® Atom E3845 Quad Core 1.91 GHz SoC",
+      "-40 °C to 70 °C wide operating temperature with EN50155 TX compliance",
+      "PoE, USB, audio, COM with M12 connectors",
+      "DC 24 V EN50155 S2/C1 compliant",
+      "Anti-vibration/shock proof, IEC 61373 Category 1, Class B",
+      "Stackable extension design, optional extension kit",
+      "Built-in WISE-PaaS/RMM",
+      "Safety certifications UL, CCC, BSMI, CB, EN50155 (No RED)"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-flnuyz/ark-2231r/mod_93058347-799f-4ffd-812e-701bbf617c3c"
+  },
+  {
+    "nome": "ARK-2121V",
+    "desc": "In-Vehicle NVR com 4 portas PoE, Intel® Atom E3825 / Atom E3845 SoC, Fanless Box PC",
+    "detalhes": [
+      "Intel® Atom E3825 Dual Core 1.33 GHz ou E3845 Quad Core 1.91 GHz SoC",
+      "4 portas PoE para suporte a câmeras IP",
+      "Portas COM isoladas e DIO",
+      "Suporte a comunicação WWAN/WLAN",
+      "Ignição inteligente para veículos",
+      "Entrada de energia ampla de 9–36 VDC com isolamento",
+      "1 × compartimento removível para drive de 2.5″",
+      "Suporta iManager, SUSIAccess e APIs embarcadas",
+      "Sem Certificação RED"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-flnuyz/ark-2121v/mod_a0172f12-c254-4fbf-afe2-3d1336a48b9a"
+  },
+  {
+    "nome": "ARK-10",
+    "desc": "Intel® Celeron Quad Core J1900 SoC com Dual GbE e Dual COM Fanless Box PC",
+    "detalhes": [
+      "Intel® Celeron Quad Core J1900 SoC",
+      "Dual GbE",
+      "Dual COM ports",
+      "Fanless Box PC",
+      "Design ultra‑compacto e de baixo consumo"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkbyz/ark-10/mod_fcd59b84-2c7a-4f2d-8ba2-41fd79810fd6"
+  },
+  {
+    "nome": "ARK-11",
+    "desc": "Intel Celeron N3350 DC SoC com 4K Dual HDMI/Dual LAN/M.2 DIN-Rail Fanless Box PC",
+    "detalhes": [
+      "Intel Celeron N3350 Dual Core 1.1 GHz",
+      "Sistema DIN-Rail com portas I/O essenciais no painel frontal",
+      "Memória DDR3L de 8 GB e SSD de 128 GB integrados",
+      "Windows 10 IoT Enterprise pré-instalado",
+      "Adaptador de 60W incluído na caixa de acessórios",
+      "Exibição Dual HDMI até resolução 4K",
+      "1 x mPCIe full-size com suporte a SIM e 1 x M.2 2230 para Wi-Fi",
+      "Entrada de energia de 12V ~ 28V",
+      "Temperatura operacional estendida de -30 ~ 70 °C",
+      "Suporte WISE-PaaS/DeviceOn"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkbyz/ark-11/mod_c826c7a1-c862-444e-9e0f-bd01fad2c077"
+  },
+  {
+    "nome": "ARK-1123C",
+    "desc": "Intel® Atom E3825 SoC com Dual GbE e Dual COM Fanless Box PC",
+    "detalhes": [
+      "Intel® Atom E3825 SoC",
+      "Dual GbE",
+      "Dual COM ports",
+      "Fanless Box PC",
+      "Design ultra‑compacto"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkbyz/ark-1123c/mod_0b91165c-aa8c-485d-8d25-fde6f88f4873"
+  },
+  {
+    "nome": "ARK-1123H",
+    "desc": "Intel® Celeron Quad Core J1900 SoC com Dual HDMI/GbE IoT Fanless BOX PC",
+    "detalhes": [
+      "Intel® Celeron Quad Core J1900 SoC",
+      "Dual HDMI",
+      "GbE",
+      "Uso em IoT",
+      "Fanless"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkbyz/ark-1123h/mod_590fcfdc-278c-41b1-a8c7-d29152cd96d7"
+  },
+  {
+    "nome": "ARK-1123L",
+    "desc": "Intel® Atom E3825 SoC com Dual COM e GPIO Palm-Size Fanless Box PC",
+    "detalhes": [
+      "Intel® Atom E3825 SoC",
+      "Dual COM ports",
+      "GPIO",
+      "Palm-size",
+      "Fanless Box PC"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkbyz/ark-1123l/mod_16fa2125-2758-438f-86d2-5763dfa4bc47"
+  },
+  {
+    "nome": "ARK-1124C",
+    "desc": "Intel® Celeron™ N3350 DC SoC com Quatro Portas Seriais Modular Fanless Box PC",
+    "detalhes": [
+      "Intel® Celeron™ N3350 DC SoC",
+      "Quatro portas seriais",
+      "Design modular",
+      "Fanless Box PC",
+      "Suporte M.2"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkbyz/ark-1124c/mod_98b0cd9c-ee56-45df-ace8-17ab10311242"
+  },
+  {
+    "nome": "ARK-1124H",
+    "desc": "Intel Atom™ E3940 QC SoC with Dual HDMI/Dual LAN/Four USB Modular Fanless Box PC",
+    "detalhes": [
+      "Intel Atom™ E3940 Quad Core SoC",
+      "Dual HDMI independent display support",
+      "Dual LAN",
+      "Four USB ports",
+      "Modular fanless design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1124h/mod_73889026-4b61-4946-98e6-c8972374c938"
+  },
+  {
+    "nome": "ARK-1124U",
+    "desc": "Intel Celeron N3350 DC SoC with Dual LAN/Four USB 3.0/M.2/TPM IoT Gateway Modular Fanless Box PC",
+    "detalhes": [
+      "Intel Celeron N3350 Dual Core SoC",
+      "Dual LAN",
+      "Four USB 3.0",
+      "M.2 and TPM",
+      "IoT gateway modular design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1124u/mod_e4faa6eb-0cd1-4c55-b2d9-0dea6c8cbdff"
+  },
+  {
+    "nome": "ARK-1220F",
+    "desc": "Intel Atom E3940 QC SoC with isolated GbE, COM and DIO ports DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel Atom E3940 QC SoC",
+      "Isolated GbE, COM, DIO",
+      "DIN‑Rail mount",
+      "Fanless Box PC",
+      "Ultra compact"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1220f/mod_3674975b-ae30-4473-b82c-7c3449bc9e5b"
+  },
+  {
+    "nome": "ARK-1220L",
+    "desc": "Intel Atom E3940 QC SoC with 4K Dual HDMI/Dual LAN/M.2 DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel Atom E3940 Quad Core SoC",
+      "4K Dual HDMI",
+      "Dual LAN",
+      "M.2 expansion",
+      "DIN‑Rail mount"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1220l/mod_7ca795a7-8a5a-4da8-9a0c-c7776c0fc437"
+  },
+  {
+    "nome": "ARK-1221L",
+    "desc": "Intel Atom x6413E and Celeron J6412 QC & N6210 DC SoC with GbE, COM, USB, HDMI/DP and DIO ports DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel Atom x6413E / Celeron J6412 QC or N6210 DC SoC",
+      "GbE, COM, USB, HDMI/DP, DIO ports",
+      "DIN‑Rail mount",
+      "Fanless",
+      "Supports M.2, mPCIe, SATA"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1221l/mod_06c34358-87b6-4f11-97af-be1a1dd885dd"
+  },
+  {
+    "nome": "ARK-1222",
+    "desc": "Intel N97 and x7433RE Quad Core SoC with dual HDMI, dual LAN, four COM DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel N97 / x7433RE Quad Core SoC",
+      "Dual HDMI",
+      "Dual LAN",
+      "Four COM ports",
+      "DIN‑Rail fanless design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1222/mod_b9eab43e-6b6c-43ed-83fa-75097a570929"
+  },
+  {
+    "nome": "ARK-1250L",
+    "desc": "Intel® 11th gen Core™ i processor with Triple LAN/Quadruple COM Din‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel® 11th Gen Core™ i (i5/i3)",
+      "Triple GbE LAN",
+      "Quad COM ports",
+      "DIN‑Rail fanless design",
+      "Supports M.2, mPCIe, SATA"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/1-2jkbyz/ark-1250l/mod_a8bf8eca-d70b-49d6-8fc0-ca55ee14b5e6"
+  }, 
+  {
+    "nome": "ARK-1251",
+    "desc": "Intel® Core Ultra 5/Ultra 7 Processor with triple LAN, four COM, HDMI, DP, GbE, GPIO, USB x 6, Din‑Rail fanless",
+    "detalhes": [
+      "Intel® Core Ultra 5 / Ultra 7 Processor",
+      "Triple GbE LAN",
+      "Four COM ports",
+      "HDMI + DP displays",
+      "Up to 6 USB, GPIO, DIN‑Rail mount"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1251/mod_22a92517-513c-4ce5-8a53-25565614f4d6"
+  },
+  {
+    "nome": "ARK-11",
+    "desc": "Intel Celeron N3350 DC SoC with 4K Dual HDMI/Dual LAN/M.2 DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel Celeron N3350 Dual Core 1.1 GHz",
+      "Dual HDMI display up to 4K resolution",
+      "Dual LAN",
+      "M.2 expansion",
+      "DIN‑Rail mount"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/1-2jkbyz/ark-11/mod_c826c7a1-c862-444e-9e0f-bd01fad2c077"
+  },
+  {
+    "nome": "ARK-1124H",
+    "desc": "Intel Atom™ E3940 QC SoC with Dual HDMI/Dual LAN/Four USB Modular Fanless Box PC",
+    "detalhes": [
+      "Intel Atom™ E3940 Quad Core SoC",
+      "Dual HDMI",
+      "Dual LAN",
+      "Four USB ports",
+      "Modular fanless design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1124h/mod_73889026-4b61-4946-98e6-c8972374c938"
+  },
+  {
+    "nome": "ARK-1220F",
+    "desc": "Intel Atom E3940 QC SoC with isolated GbE, COM and DIO ports DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel Atom E3940 QC SoC",
+      "Isolated GbE, COM, DIO",
+      "DIN‑Rail mount",
+      "Fanless Box PC",
+      "Ultra compact"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1220f/mod_3674975b-ae30-4473-b82c-7c3449bc9e5b"
+  },
+  {
+    "nome": "ARK-1220L",
+    "desc": "Intel Atom E3940 QC SoC with 4K Dual HDMI/Dual LAN/M.2 DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel Atom E3940 Quad Core SoC",
+      "4K Dual HDMI",
+      "Dual LAN",
+      "M.2 expansion",
+      "DIN‑Rail mount"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1220l/mod_7ca795a7-8a5a-4da8-9a0c-c7776c0fc437"
+  },
+  {
+    "nome": "ARK-1222",
+    "desc": "Intel N97 and x7433RE Quad Core SoC with dual HDMI, dual LAN, four COM DIN‑Rail Fanless Box PC",
+    "detalhes": [
+      "Intel N97 / x7433RE Quad Core SoC",
+      "Dual HDMI",
+      "Dual LAN",
+      "Four COM ports",
+      "DIN‑Rail fanless design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkbyz/ark-1222/mod_b9eab43e-6b6c-43ed-83fa-75097a570929"
+  },
+  {
+    "nome": "ARK-1551",
+    "desc": "Ei‑A110 Edge Intelligence System Powered By WISE‑DeviceOn",
+    "detalhes": [
+      "Edge Intelligence System",
+      "Powered by WISE‑DeviceOn",
+      "Includes software and hardware integration",
+      "Fanless Din‑Rail system"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/1-2jkbyz/ark-1551/mod_47d30ee7-28b6-41bc-83a1-a7ca416e68cd"
+  },
+  {
+    "nome": "ARK-2232L",
+    "desc": "Intel® Atom® E3940 SoC Modular Fanless Box PC",
+    "detalhes": [
+      "Intel Atom E3940 Quad Core SoC",
+      "Dual independent displays (4K HDMI + VGA)",
+      "12 V lockable DC jack power input",
+      "9–36 V wide-range power module support",
+      "-20 °C to 60 °C extended operating temperature",
+      "Mini PCIe expansion with SIM holder",
+      "M.2 NGFF 2230 E Key slot for Wi‑Fi module",
+      "mSATA plus 1 × 2.5″ SATA storage",
+      "Compatible with Advantech iDoor, EMIO, MIOe modules",
+      "No RED Certification"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/ark-2000_series_embedded_box_pcs/ark-2232l/mod_4ae358df-fa9b-49a2-a075-5ff8082df336"
+  },
+  {
+  "nome": "ARK-2250L",
+  "desc": "Intel 6th Generation Core™ i3/i5/i7 Modular Fanless Box PC",
+  "detalhes": [
+    "6th Gen Intel® Core™ U-series (i3/i5/i7)",
+    "Dual display (VGA + HDMI), optional triple display",
+    "12 V lockable DC jack",
+    "9–36 V wide-range power input",
+    "-20 °C to 60 °C wide-temperature operation",
+    "2 × full-size mPCIe for Wi‑Fi/cellular",
+    "1 × mSATA and 1 × 2.5″ SATA bay",
+    "Supports iDoor modules and dual-layer ARK Plus expansion",
+    "No RED Certification"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/ark-2000_series_embedded_box_pcs/ark-2250l/mod_66ebc4e0-9a0c-489c-96a5-70a8054e9037"
+},
+{
+  "nome": "ARK-2230L",
+  "desc": "Intel® Celeron® Quad Core J1900 SoC Modular Fanless Box PC",
+  "detalhes": [
+    "Intel® Celeron® J1900 Quad Core 2.0 GHz SoC",
+    "Dual independent displays (VGA + HDMI)",
+    "12 V lockable DC jack power input",
+    "9–36 V wide-range power module support",
+    "-20 °C to 60 °C extended operating temperature",
+    "Mini PCIe with SIM holder",
+    "mSATA + 1 × 2.5″ SATA storage",
+    "Compatible with Advantech iDoor, EMIO, MIOe modules",
+    "No RED Certification"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/ark-2000_series_embedded_box_pcs/ark-2230l/mod_11b0040d-bfcc-408e-a22a-8f99632f06aa"
+},
+{
+  "nome": "ARK-2121L",
+  "desc": "Intel® Celeron® Quad Core J1900 SoC with Multiple I/Os Fanless Box PC",
+  "detalhes": [
+    "Intel® Celeron® J1900 Quad Core 2.0 GHz SoC with Turbo boost",
+    "Dual display: VGA + HDMI",
+    "9–36 V DC wide-range power input",
+    "-20 °C to 70 °C extended operation",
+    "Mini PCIe expansion with SIM holder",
+    "mSATA + 1 × 2.5″ SATA storage",
+    "Supports Advantech iDoor and EMIO modules",
+    "No RED Certification"
+  ],
+  "product_url": "https://www.advantech.com/en/products/ark-2000_series_embedded_box_pcs/ark-2121l/mod_dd092808-0832-44bc-b38a-945eb7e016bd"
+},
+{
+  "nome": "ARK-2121F",
+  "desc": "Intel® Celeron® Quad Core J1900 SoC with Multiple I/Os Fanless Box PC",
+  "detalhes": [
+    "Intel® Celeron® J1900 Quad Core 2.0 GHz SoC with Turbo boost",
+    "Dual display: VGA + HDMI",
+    "6 × COM, 6 × USB, isolated DIO",
+    "9–36 VDC wide-range power input",
+    "-20 °C to 70 °C extended operating temperature",
+    "Mini PCIe expansion with SIM holder",
+    "mSATA + 1 × 2.5″ SATA storage",
+    "Optional DVI/2nd HDMI/4×GbE available via project",
+    "No RED Certification"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/ark-2000_series_embedded_box_pcs/ark-2121f/mod_eb8fd822-1cca-4006-8ac1-def225eb4f59"
+},
+{
+  "nome": "ARK-2150F",
+  "desc": "3rd Generation Intel® Core™ i7 with 4 × GbE, isolated DIO & wide-range power Fanless Box PC",
+  "detalhes": [
+    "3rd Gen Intel® Core™ i7 + QM77 chipset",
+    "4 × Intel GbE LAN ports",
+    "Digital 4-in / 4-out with 2.5 kV isolation",
+    "3 × USB 3.0, 3 × USB 2.0, 4 × COM ports",
+    "Internal mSATA + 1 × 2.5″ SATA bay",
+    "12–24 V lockable DC input",
+    "Supports iManager, SUSIAccess and Embedded APIs",
+    "No RED Certification"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/ark-2000_series_embedded_box_pcs/ark-2150f/mod_eb8fd822-1cca-4006-8ac1-def225eb4f59"
+},
+{
+  "nome": "ARK-2150L",
+  "desc": "3rd Generation Intel® Core™ i3/i7 with Dual Independent Display Fanless Box PC",
+  "detalhes": [
+    "3rd Gen Intel® Core™ i3/i7 + QM77 chipset",
+    "Dual independent display: VGA + HDMI or DP",
+    "Up to 2 × GbE, 2 × USB 3.0, 4 × USB 2.0, 4 × COM",
+    "Internal mSATA + 1 × 2.5″ SATA bay",
+    "Lockable DC jack design",
+    "Supports iManager, SUSIAccess and Embedded APIs",
+    "No RED Certification"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/ark-2000_series_embedded_box_pcs/ark-2150l/mod_66ebc4e0-9a0c-489c-96a5-70a8054e9037"
+},
+{
+  "nome": "ARK-3405",
+  "desc": "Intel® Celeron™ N3160 Fanless Embedded Box PC with Rich Expansion and Dual Removable 2.5″ HDD Drive Bays",
+  "detalhes": [
+    "Intel® Celeron™ N3160 Quad Core 2.24 GHz SoC with Turbo boost",
+    "Supports VGA/DVI‑D/HDMI triple independent display",
+    "2 × GbE, 3 × USB 3.0, 3 × USB 2.0, 1 × DIO, audio, 4 × COM ports",
+    "2 removable 2.5″ SATA HDD drive bays",
+    "PCI/PCIe ×1 expansion, 2 × miniPCIe with SIM holder",
+    "Wide‑range power input 9–36 V",
+    "Advantech iDoor module compatible"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/ark-2000_series_embedded_box_pcs/ark-3405/mod_66ebc4e0-9a0c-489c-96a5-70a8054e9037"
+},
+{
+  "nome": "ARK-3510",
+  "desc": "3rd Gen. Intel® Core™ i3/i5/i7 with 2 × 2.5″ Removable HDD Bays Fanless Box PC",
+  "detalhes": [
+    "Supports Intel® Core™ i3/i5/i7 mobile processor (rPGA) + Intel QM77 PCH",
+    "Triple independent display: DVI + HDMI + DisplayPort",
+    "DDR3/DDR3L SO‑DIMM memory support up to 16 GB",
+    "2 × removable SATAIII 2.5″ drive bays",
+    "2 × miniPCIe with SIM card holders",
+    "Versatile I/O: 4 × USB 3.0, 4 × COM ports",
+    "Lockable 12 V DC jack design",
+    "Supports iManager, WISE‑PaaS/RMM, Embedded APIs",
+    "Rugged certifications: CE/FCC Class A, CB, UL, CCC, BSMI",
+    "Operating temp −40 °C to 85 °C storage, shock/vibration certified"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/ark-2000_series_embedded_box_pcs/ark-3510/mod_66ebc4e0-9a0c-489c-96a5-70a8054e9037"
+},
+  {
+    "nome": "ARK-3520L",
+    "desc": "6th Gen. Intel® Core™ i3/i5/i7 Modular Expansion Fanless Box PC",
+    "detalhes": [
+      "6th Gen Intel® Core™ i3/i5/i7 mobile processor (BGA)",
+      "Triple independent display: VGA + HDMI + Optional Display",
+      "DDR4 SO-DIMM memory support up to 32 GB",
+      "9–36 V power module compatible",
+      "Optional 2 × removable 2.5″ HDD bays",
+      "Advantech iDoor, EMIO module compatible",
+      "ARK Plus AMO-3xxx expansion support"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkd2d/ark-3520l/mod_91f9a291-3871-4789-b5f2-83a2ce2185c4"
+  },
+  {
+    "nome": "ARK-3520P",
+    "desc": "6th Gen. Intel® Core™ i3/i5/i7 with Expansion slots and wide range power Fanless Box PC",
+    "detalhes": [
+      "6th Gen Intel® Core™ i3/i5/i7 mobile processor (BGA)",
+      "Triple independent display support",
+      "DDR4 SO-DIMM memory up to 32 GB",
+      "Flexible expansion via PCI/PCIe×4",
+      "Wide-range 9–36 V power input",
+      "Multi I/O: USB 3.0 ×6, COM ports ×8",
+      "Removable dual 2.5″ HDD bays",
+      "iDoor and ARK Plus module compatible"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkd2d/ark-3520p/mod_6666bf1e-af4f-47b6-8006-1a0a89eb3c93"
+  },
+  {
+    "nome": "ARK-3530F",
+    "desc": "Intel® Xeon® E3 / Core™ i3/i5/i7 LGA1151 Modular Expansion Fanless Box PC",
+    "detalhes": [
+      "Supports Intel® Xeon E3 or 6th/7th Gen Core i3/i5/i7 (LGA1151)",
+      "Triple independent display: VGA + HDMI + Optional Display",
+      "DDR4 SO-DIMM memory up to 32 GB",
+      "Up to 4 removable 2.5″ HDD bays",
+      "Advantech iDoor and EMIO module compatible",
+      "Wide-range 9–36 V DC power input"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkd2d/ark-3530f/mod_7936f009-90b0-4092-97b3-27ee0c9973b4"
+  },
+  {
+    "nome": "ARK-3530L",
+    "desc": "Intel® Xeon® E3 / Core™ i3/i5/i7 LGA1151 Modular Expansion Fanless Box PC",
+    "detalhes": [
+      "Supports Intel® Xeon E3 or 6th/7th Gen Core i3/i5/i7 (LGA1151)",
+      "Triple independent display: VGA + HDMI + Optional Display",
+      "DDR4 SO-DIMM memory up to 32 GB",
+      "Up to 4 removable 2.5″ HDD bays",
+      "Advantech iDoor and EMIO module compatible",
+      "Wide-range 9–36 V DC power input"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2jkd2d/ark-3530l/mod_a4410896-9b17-49e8-a57e-f6a5e0a2514b"
+  },
+  {
+    "nome": "ARK-3531",
+    "desc": "Intel® 8th and 9th Gen Core™ i3/i5/i7/i9 LGA1151 Fanless Box PC with Kiosk+ software",
+    "detalhes": [
+      "Supports Intel® 8th and 9th Gen Core™ i3/i5/i7/i9 (LGA1151)",
+      "Dual display: VGA + HDMI",
+      "DDR4 SO-DIMM memory support up to 64 GB",
+      "9–36 VDC wide range power input",
+      "Versatile I/Os including 2 × USB 3.1, 6 × USB 3.0 and 8 × COM ports",
+      "Support 2 internal 2.5″ Hard Drive bays (Intel SW RAID 0/1)"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/1-2jkd2d/ark-3531/mod_919dde9c-0272-4dd6-bbaf-81e58192054b"
+  },
+   {
+    "nome": "ARK-3532B",
+    "desc": "Intel® 10th Gen Xeon® W / Core™ i3/i5/i7/i9 LGA1200 Expansion Fanless Box PC",
+    "detalhes": [
+      "Suporta processadores Intel® Xeon® W ou Core™ i3/i5/i7/i9 (LGA1200)",
+      "Três saídas independentes: VGA + HDMI + Display opcional",
+      "Memória DDR4 SO-DIMM até 64 GB (ECC/non-ECC)",
+      "Até 4 baias removíveis para HDDs de 2.5″ com suporte a RAID via Intel® SW",
+      "Entradas/saídas: 4x GbE, 8x USB, 6x COM, 16-bit DIO, TPM 2.0",
+      "Entrada de energia de 12–36 VDC",
+      "Suporte a Windows 11 IoT Enterprise LTSC"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkd2d/ark-3532b/mod_32253a8a-36fe-4e6a-9223-3a5595ee7d47"
+  },
+  {
+    "nome": "ARK-3532C",
+    "desc": "Intel® 10th Gen Xeon® W / Core™ i3/i5/i7/i9 LGA1200 Expansion Fanless Box PC",
+    "detalhes": [
+      "Mesma família de CPUs do ARK-3532B",
+      "Suporte a módulos de expansão (PCI, etc.)",
+      "Memória DDR4 até 64 GB, suporte a RAID via software",
+      "Entradas/saídas: múltiplas portas GbE, USB, COM, DIO",
+      "Entrada de energia ampla",
+      "Sem certificação RED"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkd2d/ark-3532c/mod_4031097d-6fe2-4729-b659-b5580a9e2d03"
+  },
+  {
+    "nome": "ARK-3532D",
+    "desc": "Intel® 10th Gen Xeon® W / Core™ i3/i5/i7/i9 LGA1200 Expansion Fanless Box PC with DIO",
+    "detalhes": [
+      "Recursos do ARK-3532C com DIO de 16 bits integrado",
+      "Três saídas de display",
+      "Expansão via placas adicionais",
+      "Entradas/saídas completas: GbE, USB, COM, DIO",
+      "Até 4 × 2.5″ HDD com suporte a RAID",
+      "Memória DDR4 até 64 GB",
+      "Entrada de energia de 12–36 VDC"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkd2d/ark-3532d/mod_3c25fbfb-68d7-4f16-91fb-d08ce003b3f0"
+  },
+  {
+    "nome": "ARK-3533",
+    "desc": "Intel® 12th & 13th Gen Core™ i3/i5/i7/i9 LGA1700 Expansion Fanless Box PC",
+    "detalhes": [
+      "Suporta processadores Intel® 12ª/13ª geração Core™ i3/i5/i7/i9 (LGA1700)",
+      "Dual display: HDMI + HDMI (DP opcional por projeto)",
+      "Memória DDR5 SO-DIMM até 64 GB",
+      "4 × GbE (1× 1G, até 3× 2.5G), 8 × USB, 8 × COM, 16-bit DIO, 2 CANBus, TPM 2.0",
+      "2 × baias SATA III de 2.5″, slot NVMe compartilhado",
+      "Suporte a Mini PCIe, M.2 (com suporte a SIM), PCI add-on",
+      "Entrada de energia de 9–36 VDC",
+      "Temperatura operacional de −20 °C a 60 °C, certificado contra choque/vibração"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkd2d/ark-3533/mod_e6e1a36b-df85-40fc-ba2a-98a64f39216f"
+  },
+  {
+    "nome": "ARK-6320",
+    "desc": "Intel® Atom™ D510/D525 Cost-effective Mini-ITX Fanless Embedded Box PC",
+    "detalhes": [
+      "Processador Intel® Atom™ D510 1.66 GHz ou D525 1.8 GHz",
+      "Placa-mãe Mini-ITX integrada",
+      "Operação sem ventilador para uso silencioso e robusto",
+      "Design compacto industrial com boa capacidade de expansão",
+      "Adequado para automação industrial, quiosques/POS, sinalização digital, jogos e outras aplicações embarcadas"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkd2d/ark-6320/mod_3c25fbfb-68d7-4f16-91fb-d08ce003b3f0"
+  },
+  {
+    "nome": "ARK-7060",
+    "desc": "Extreme high-performance edge computer powered by Intel® Xeon® D-1700 series",
+    "detalhes": [
+      "Processador Intel® Xeon® D-1700 série, até 10 núcleos",
+      "4 × soquetes DDR4 SO-DIMM, ECC/non-ECC até 128 GB",
+      "Expansão: PCI, PCIe ×4, PCIe ×16 (suporta GPUs até 350 W)",
+      "Armazenamento: até 4 × HDD SATA III de 2.5″",
+      "Portas 10 GbE duplas opcionais, mais 2 × GbE",
+      "IPMI 2.0 via BMC onboard, backup dual-BIOS",
+      "Fonte de alimentação embutida de 850 W, kit térmico avançado para GPUs sem ventilador",
+      "Gerenciamento remoto com TPM 2.0, lista branca McAfee, suporte a backup Acronis"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/1-2jkloz/ark-7060/mod_d33bba33-3064-42ac-931c-7a052c978286"
+  },
+  {
+    "nome": "IDK-1105",
+    "desc": "5.7\" VGA Industrial Display kit with Touch Solution and LVDS Interface",
+    "detalhes": [
+      "5.7\" LCD supports 640 x 480 pixels",
+      "Wide operating temperature: -20 to 70 °C",
+      "Brightness: 500 cd/m²",
+      "4-wire resistive touch solution",
+      "LVDS signal interface",
+      "Low power consumption: 1 Watt (panel only)",
+      "LED driver board built in",
+      "Touch controller included (USB)",
+      "Note: Requires extra LVDS and backlight cable to connect to single board computer"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1105/mod_7022d642-704d-4214-b61a-e3f5e5389410"
+  },
+  {
+    "nome": "IDK-1106",
+    "desc": "6.5\" VGA 640x480 800nit LVDS LCD with 4-wire resistive touch solution KIT",
+    "detalhes": [
+      "6.5\" LCD supports 640 x 480 pixels",
+      "Wide operating temperature",
+      "Brightness: 800 cd/m² with LED backlight",
+      "4-wire resistive touch solution",
+      "LVDS signal interface",
+      "LED driver built in",
+      "Touch control board included (USB)"
+    ],
+    "product_url": "https://www.advantech.com/pt-br/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1106/mod_3fa914b5-b92a-483b-bb4e-8e44e7a2e440"
+  },
+  {
+    "nome": "IDK-1107W",
+    "desc": "7\" WVGA/WSVGA Industrial Display kit with Touch Solution",
+    "detalhes": [
+      "7\" LCD supports 800 x 480 & 1024 x 600 pixels",
+      "Wide operating temperature: -20 to 70 °C",
+      "Brightness: 400 & 500 cd/m² with LED backlight",
+      "4-wire Resistive / Projected Capacitive touch solution",
+      "LVDS signal interface",
+      "LED driver board built in",
+      "Touch controller included (USB)",
+      "AR surface treatment (customized solution)",
+      "Optical bonding (customized solution)",
+      "Note: Requires extra LVDS and backlight cable to connect to single board computer"
+    ],
+    "product_url": "https://www.advantech.com/en/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1107w/mod_2c2068ac-54fa-4b04-aaa5-c6b788db9294"
+  },
+  {
+    "nome": "IDK-1108",
+    "desc": "8.4\" SVGA Industrial Display kit with Resistive touch Solution",
+    "detalhes": [
+      "8.4\" LCD supports 800 x 600 pixels",
+      "Wide operating temperature: -5 to 60 °C",
+      "Brightness: 450 cd/m² with LED backlight",
+      "4-wire resistive touch solution",
+      "LVDS signal interface",
+      "Low power consumption: 3.24W",
+      "LED driver board built in",
+      "Touch controller included (USB)"
+    ],
+    "product_url": "https://www.advantech.com/en/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1108/mod_d36e2e00-0217-4c24-ae52-9366a1d62d2f"
+  },
+  {
+    "nome": "IDK-1110",
+    "desc": "10.4\" SVGA/XGA Industrial Display kit with Resistive / Projected Capacitive touch Solution",
+    "detalhes": [
+      "10.4\" LCD supports 800 x 600 / 1024 x 768 pixels",
+      "Wide operating temperature",
+      "4-wire resistive / projected capacitive touch solution",
+      "LVDS signal interface",
+      "LED driver board built in",
+      "Touch controller included (USB)",
+      "Anti-Reflection surface treatment (customized solution)",
+      "Optical bonding (customized solution)",
+      "Note: Requires extra LVDS and backlight cable to connect to single board computer"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1110/mod_d426ef7c-e6cf-4048-9ee7-305432b41b12"
+  },
+  {
+    "nome": "IDK-1110W",
+    "desc": "10.1\" WSVGA and HD resolution Industrial Display kit with Resistive and Projected Capacitive Touch Solution",
+    "detalhes": [
+      "10.1\" LCD 1024 x 600 with 4-wire Resistive and 1280 x 800 with Projected Capacitive Touch",
+      "Brightness: 500 cd/m² with LED backlight",
+      "LVDS signal interface",
+      "LED driver board included",
+      "Touch controller included (USB)",
+      "AR surface treatment (customized request)",
+      "Optical bonding (customized request)"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1110w/mod_818a8747-1628-4dae-8d21-5208d2f8b5f1"
+  },
+  {
+    "nome": "IDK-1112",
+    "desc": "12.1\" SVGA and XGA Industrial Display kit with Resistive / Projected Capacitive Touch Solution",
+    "detalhes": [
+      "12.1\" LCD supports 1024 x 768 resolution",
+      "5-wire resistive / projected capacitive touch solution",
+      "LVDS signal interface",
+      "LED driver board built in",
+      "Touch controller included (USB)",
+      "Optical bonding (customized solution)",
+      "Note: Requires extra LVDS and backlight cable to connect to single board computer"
+    ],
+    "product_url": "https://www.advantech.com/en-au/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1112/mod_54c7686a-77c7-4903-a5b4-5652ce1d28ce"
+  },
+  {
+    "nome": "IDK-1115",
+    "desc": "15\" XGA Industrial Display kit with Resistive/Projected capacitive touch Solution",
+    "detalhes": [
+      "15\" LCD supports 1024 x 768 pixels",
+      "Wide operating temperature: -20 to 70 °C",
+      "Brightness: 500 cd/m² with LED backlight",
+      "5-wire resistive / Projected capacitive touch solution",
+      "LVDS signal interface",
+      "LED driver board built in",
+      "Touch controller included (USB)",
+      "AR surface treatment (customized solution)",
+      "Optical bonding (customized solution)",
+      "Note: Requires extra LVDS and backlight cable to connect to single board computer"
+    ],
+    "product_url": "https://www.advantech.com/en-us/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1115/mod_966915b0-a437-4abb-b903-0cefc66353e7"
+  },
+  {
+    "nome": "IDK-1115WP",
+    "desc": "15.6\" FHD Industrial Display kit with Projected Capacitive Touch Solution",
+    "detalhes": [
+      "15.6\" LCD supports 1920 x 1080 resolution",
+      "Brightness: 450 cd/m² with LED backlight",
+      "Projected Capacitive touch solution with Anti-Finger Print surface treatment",
+      "Wide view angle",
+      "LVDS signal interface",
+      "Touch controller included (USB)",
+      "Anti Reflector surface treatment (customized solution)",
+      "Optical bonding (customized solution)",
+      "Note: Requires extra LVDS and backlight cable to connect to single board computer"
+    ],
+    "product_url": "https://www.advantech.com/en-au/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1115wp/mod_38548b37-122a-4771-bdef-59ec47ce98b5"
+  },
+  {
+    "nome": "IDK-1119",
+    "desc": "19\" SXGA Industrial Display kit with Touch Solution",
+    "detalhes": [
+      "19\" LCD supports 1280 x 1024 pixels",
+      "Wide operating temperature: 0 to 50 °C",
+      "Brightness: 350 cd/m² with LED backlight",
+      "5-wire resistive touch solution",
+      "High contrast ratio of 1000:1",
+      "High uniformity of 80%",
+      "LVDS signal interface",
+      "Low power consumption: 20.55 W (panel only)",
+      "LED driver board built in",
+      "Touch controller included (USB)",
+      "AR surface treatment (optional)",
+      "Optical bonding (optional)"
+    ],
+    "product_url": "https://www.advantech.com/en/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1119/mod_2549976e-5ef9-4183-a341-b7300a85e1f9"
+  },
+  {
+    "nome": "IDK-1121W",
+    "desc": "21.5\" FHD Industrial Display kit with Touch Solution",
+    "detalhes": [
+      "21.5\" LCD supports 1920 x 1080 pixels",
+      "Wide operating temperature: 0 to 60 °C",
+      "Brightness: 250/300 cd/m² with LED backlight",
+      "Projected capacitive / 5-wire resistive touch solution",
+      "High contrast ratio of 5000:1",
+      "High uniformity of 80%",
+      "LVDS signal interface",
+      "LED driver board built in",
+      "Touch controller included (USB)",
+      "AR surface treatment (customized request)",
+      "Optical bonding (customized request)"
+    ],
+    "product_url": "https://www.advantech.com/en/products/60f5fbd2-6b02-490c-98bc-88cd13279638/idk-1121w/mod_6b58abb7-6ef4-498a-aefd-8a4212b7d433"
+  },
+  {
+  "nome": "IDK-2107W",
+  "desc": "7\" WSVGA, 1000 nit LCD with Projected Capacitive Touch solution",
+  "detalhes": [
+    "7\" LCD supports 1024 x 600 pixels",
+    "Brightness: 1000 cd/m² with LED backlight",
+    "Wide operating temperature: -20 to 70 °C",
+    "Projected Capacitive touch solution",
+    "LVDS signal interface",
+    "LED driver board built in",
+    "Touch controller included (USB)",
+    "AR surface treatment (customized request)",
+    "Optical bonding (customized request)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/76478657-3745-4948-a84e-170075b04f19/idk-2107/mod_cfc1d027-8812-455a-8b82-624c43b5ee23"
+},
+{
+  "nome": "IDK-2108",
+  "desc": "8.4\" SVGA 1,200 cd/m² Ultra High Brightness Industrial Display Kit with LED backlight, LVDS Interface",
+  "detalhes": [
+    "8.4\" LCD supports 800 x 600 pixels",
+    "Ultra-high brightness: 1200 cd/m² with LED backlight",
+    "Operating temperature: -5 to 60 °C",
+    "High contrast ratio: 600:1",
+    "Superior sunlight readability",
+    "Low power consumption: 4.32 W",
+    "LVDS signal interface",
+    "AR surface treatment (optional)",
+    "Manual VR brightness control (optional)",
+    "Auto-dimming solution with light sensor (optional)",
+    "Optical bonding (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/76478657-3745-4948-a84e-170075b04f19/idk-2108/mod_9077ce3e-588a-4d28-bded-5f3a917fbdbc"
+},
+{
+  "nome": "IDK-2110",
+  "desc": "10.4\" SVGA 1,200 cd/m² Ultra High Brightness Industrial Display Kit with LED backlight, LVDS Interface",
+  "detalhes": [
+    "10.4\" LCD supports 800 x 600 / 1024 x 768 pixels",
+    "Ultra-high brightness: 1200 cd/m² with LED backlight",
+    "Wide operating temperature support",
+    "Superior sunlight readability",
+    "LVDS signal interface",
+    "AR surface treatment (customized request)",
+    "Auto-dimming solution with light sensor (customized request)",
+    "Optical bonding (customized request)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/76478657-3745-4948-a84e-170075b04f19/idk-2110/mod_f6518080-9d58-4b0c-b0a6-0d12afa624a1"
+},
+{
+  "nome": "IDK-2110W",
+  "desc": "10.1\" 1280×800 1500 cd/m² LCD with Projected Capacitive Touch Solutions",
+  "detalhes": [
+    "10.1\" 1280 x 800 LCD with Projected Capacitive Touch Screen",
+    "Brightness: 1500 cd/m²",
+    "LVDS signal interface",
+    "LED driver board included",
+    "Touch controller included (USB)",
+    "AR surface treatment (customized request)",
+    "Optical bonding (customized request)"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/76478657-3745-4948-a84e-170075b04f19/idk-2110w/mod_c98f5175-b5c9-4e39-80cb-09dae781499c"
+},
+{
+  "nome": "IDK-2112",
+  "desc": "12.1\" SVGA and XGA 1,200 cd/m² Ultra High Brightness Industrial Display Kit with Touch solution, LVDS Interface",
+  "detalhes": [
+    "12.1\" LCD supports 800 x 600 and 1024 x 768 pixels",
+    "Ultra-high brightness: 1200 cd/m² with LED backlight",
+    "Operating temperature: -20 to 70 °C",
+    "High contrast ratio",
+    "Superior sunlight readability",
+    "LVDS signal interface",
+    "AR surface treatment (optional)",
+    "Manual VR brightness control (optional)",
+    "Auto-dimming solution with light sensor (optional)",
+    "Optical bonding (optional)"
+  ],
+  "product_url": "https://www.advantech.com/pt-br/products/76478657-3745-4948-a84e-170075b04f19/idk-2112/mod_aaeed210-b5fd-4e9b-94c9-eaa9427810b6"
+},
+{
+  "nome": "IDK-2115",
+  "desc": "15\" XGA 1,200 cd/m² Ultra High Brightness Industrial Display Kit with LED backlight, LVDS Interface",
+  "detalhes": [
+    "15\" LCD supports 1024 x 768 pixels",
+    "Ultra-high brightness: 1200 cd/m² with external LED backlight",
+    "Operating temperature: -20 to 70 °C",
+    "High contrast ratio: 2500:1",
+    "Superior sunlight readability",
+    "Low power consumption: 18.36 W",
+    "LVDS signal interface",
+    "AR surface treatment (optional)",
+    "Manual VR brightness control (optional)",
+    "Auto-dimming solution with light sensor (optional)",
+    "Optical bonding (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/76478657-3745-4948-a84e-170075b04f19/idk-2115/mod_ba7dc9a1-f2b2-423d-8727-eefbaf6f9944"
+},
+{
+  "nome": "IDK-2121W",
+  "desc": "21.5\" FHD 1,200 cd/m² Ultra High Brightness Industrial Display Kit with LED backlight, LVDS Interface",
+  "detalhes": [
+    "21.5\" LCD supports 1920 x 1080 pixels",
+    "Ultra-high brightness: 1200 cd/m²",
+    "High uniformity: 85%",
+    "Superior sunlight readability",
+    "LVDS signal interface",
+    "5-wire resistive touch solution (optional)",
+    "Anti-Reflection surface treatment (optional)",
+    "Manual VR brightness control (optional)",
+    "Auto-dimming solution with light sensor (optional)",
+    "Optical bonding (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/76478657-3745-4948-a84e-170075b04f19/idk-2121w/mod_647c7f83-55fa-4649-8b54-7fe792103e49"
+},
+{
+  "nome": "IDS-3315",
+  "desc": "15\" 1024 x 768, VGA/DVI/HDMI interface, Front IP65 Monitor",
+  "detalhes": [
+    "Front IP65 for waterproof and dustproof",
+    "15\" XGA LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: -20 to +60 °C",
+    "5-wire resistive and P-cap touchscreen solution or tempered smudge resistant protected glass",
+    "Multiple signal interfaces: HDMI, VGA & DVI",
+    "Standard integrated frame",
+    "Versatile mounting methods for rear mounting and VESA mounting",
+    "Anti-Reflective treatment (optional)",
+    "Ultra high brightness solution of 1200 cd/m² for outdoor applications (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/7c99961c-0ffd-4e52-939c-3c2d53844989/ids-3315/mod_a7f22920-7a6b-44f3-b528-3f07d9c6a496"
+},
+{
+  "nome": "IDS-3319",
+  "desc": "19\" 1280 x 1024, VGA/DVI/HDMI interface, Front IP65 Monitor",
+  "detalhes": [
+    "Front IP65 for waterproof and dustproof",
+    "19\" SXGA LCD panel with LED backlight",
+    "Operating temperature: -20 to +60 °C",
+    "5-wire resistive and P-cap touchscreen solution or tempered smudge resistant protected glass",
+    "Multiple signal interfaces: HDMI, VGA & DVI",
+    "Standard integrated frame",
+    "Versatile mounting methods for rear mounting and VESA mounting",
+    "Anti-Reflective treatment (optional)",
+    "Ultra high brightness solution of 1200 cd/m² for outdoor applications (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/7c99961c-0ffd-4e52-939c-3c2d53844989/ids-3319/mod_c3df951a-4743-4089-96ea-70858d19c816"
+},
+{
+  "nome": "IDS-3106",
+  "desc": "6.5\" 640 x 480, VGA/DVI interface, Ultra Slim Touch Open Frame Monitor",
+  "detalhes": [
+    "6.5\" 640 x 480 VGA panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: 0 to 50 °C",
+    "4-wire resistive touchscreen solution",
+    "USB touch interface",
+    "Dual signal interface with VGA and DVI",
+    "Integrated bracket for easy installation",
+    "Versatile mounting methods for Rear mounting and VESA mounting",
+    "Anti-Reflective surface treatment for sunlight readable enhancement (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3106/mod_a5c42cf2-99b2-411a-9660-78114e21c53a"
+},
+{
+  "nome": "IDS-3110",
+  "desc": "10.4\" 800 x 600, VGA/DVI interface, Ultra Slim Touch Open Frame Monitor",
+  "detalhes": [
+    "10.4\" 800 x 600 SVGA LED panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: -20°C to +60°C",
+    "5-wire resistive touchscreen solution",
+    "Combo touch interface of RS-232 and USB",
+    "Dual signal interface with VGA and DVI",
+    "Integrated bracket for easy installation",
+    "Versatile mounting methods for Rear mounting and VESA mounting",
+    "Anti-Reflective surface treatment for sunlight readable enhancement (optional)",
+    "Ultra high brightness solution of 1200 nits for outdoor application (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3110/mod_3e2e09ce-2a00-4c51-8b9a-b6e340252dc9"
+},
+{
+  "nome": "IDS-3112",
+  "desc": "12.1\" 1024 x 768 & 800 x 600, VGA/DVI interface, Ultra Slim Open Frame Touch Monitor",
+  "detalhes": [
+    "12.1\" 1024 x 768 XGA, 800 x 600 SVGA panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: -20°C to +60°C",
+    "5-wire resistive touchscreen solution",
+    "Combo touch interface of RS-232 and USB",
+    "Dual signal interface with VGA and DVI",
+    "Integrated bracket for easy installation",
+    "Versatile mounting methods for Rear mounting and VESA mounting",
+    "Anti-Reflective surface treatment for sunlight readable enhancement (optional)",
+    "Ultra high brightness solution of 1200 nits for outdoor application (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3112/mod_06e214e3-d17f-4ad8-aa4c-221df676441f"
+},
+{
+  "nome": "IDS-3115",
+  "desc": "15\" 1024 x 768, VGA/DVI interface, Open Frame Monitor",
+  "detalhes": [
+    "15\" 1024 x 768 XGA LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: -20 to +60 °C",
+    "5-wire resistive and projected capacitive touchscreen solution",
+    "Combo touch interface of RS-232 and USB",
+    "Dual signal interface with VGA and DVI",
+    "Integrated bracket for easy installation",
+    "Versatile mounting methods for Rear mounting and VESA mounting",
+    "Anti-Reflective surface treatment for sunlight readable enhancement (optional)",
+    "Ultra high brightness solution of 1200 nits for outdoor application (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3115/mod_3e044d45-5d40-4022-a3e5-38bd8c7ba142"
+},
+{
+  "nome": "IDS-3117",
+  "desc": "17\" 1280 x 1024, VGA/DVI interface, Ultra Slim Touch Open Frame Monitor",
+  "detalhes": [
+    "17\" 1280 x 1024 SXGA LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: –20 °C to +60 °C",
+    "5-wire resistive touchscreen solution",
+    "Combo touch interface RS-232 and USB",
+    "Dual signal interface with VGA and DVI (on selected models)",
+    "Integrated bracket for easy installation",
+    "Versatile mounting methods for Rear mounting and VESA mounting",
+    "Anti-Reflective surface treatment for sunlight readable enhancement (optional)",
+    "Ultra high brightness solution of 1200 nits for outdoor application (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3117/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+},
+{
+  "nome": "IDS-3118W",
+  "desc": "18.5\" 1366 x 768, VGA/DVI/HDMI interface, Ultra Slim Touch Open Frame Monitor",
+  "detalhes": [
+    "18.5\" 1366 x 768 HD LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: 0 °C to 55 °C",
+    "5-wire resistive and P-cap touchscreen solution",
+    "Touch interface: USB & RS-232",
+    "Multiple signal interface with VGA, DVI & HDMI",
+    "Integrated bracket for easy installation",
+    "Versatile mounting methods for rear mounting and VESA mounting",
+    "Anti-Reflective treatment (optional)",
+    "Optical bonding (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3118w/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+},
+{
+  "nome": "IDS-3119",
+  "desc": "19\" 1280 x 1024, VGA/DVI interface, Ultra Slim Touch Open Frame Monitor",
+  "detalhes": [
+    "19\" 1280 x 1024 SXGA panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: 0 °C to 45 °C",
+    "5-wire resistive touchscreen solution",
+    "Combo touch interface of RS-232 and USB",
+    "Dual signal interface with VGA and DVI",
+    "Integrated bracket for easy installation",
+    "Versatile mounting methods for Rear mounting and VESA mounting",
+    "Anti-Reflective surface treatment for sunlight readable enhancement (optional)",
+    "Ultra high brightness solution of 1200 nits for outdoor application (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3119/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+},
+{
+  "nome": "IDS-3121W",
+  "desc": "21.5\" FHD OpenFrame Monitor",
+  "detalhes": [
+    "21.5\" Full HD 1920 x 1080 LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: 0° C to 50° C",
+    "Flexible signal interface: VGA, DVI & optional HDMI",
+    "5-Wire Resistive touchscreen solution",
+    "USB touch interface",
+    "Integrated bracket for easy installation",
+    "Versatile mounting method for rear mounting and VESA mounting",
+    "Anti-Reflective surface treatment for sunlight readable enhancement (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3121w/mod_51806cbc-9196-4004-be68-071c8c8744ee"
+},
+{
+  "nome": "IDS-3127W",
+  "desc": "27\" FHD 1920 x 1080, VGA/DVI/DP interface, open frame touch monitor",
+  "detalhes": [
+    "27\" Full HD 1920 x 1080 LCD panel with LED backlight",
+    "Operating temperature: 0 to 45° C",
+    "P-cap touch screen with USB interface",
+    "Slim border design with 10 mm",
+    "Standard VESA mounting",
+    "Wide viewing angle display"
+  ],
+  "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/ids-3127w/mod_7781abfc-e5a7-4708-bbe0-56f3023e6c97"
+},
+{
+  "nome": "IDS-3206",
+  "desc": "6.5\" VGA Industrial Panel Mount Monitor",
+  "detalhes": [
+    "6.5\" VGA LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: 0° C to +50° C",
+    "4-wire resistive touchscreen solution or 3mm tempered smudge resistant protected glass",
+    "USB touch interface",
+    "Dual signal interface with VGA & DVI",
+    "Standard integrated frame",
+    "Versatile mounting method for rear mounting and VESA mounting",
+    "Anti-reflective treatment for sunlight readable enhancement (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3206/mod_dff498ac-bfab-4a59-ac28-e89789d750b2"
+},
+{
+  "nome": "IDS-3210",
+  "desc": "10.4\" SVGA / XGA Industrial Panel Mount Monitor",
+  "detalhes": [
+    "10.4\" SVGA LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: -20° C to +60° C",
+    "5-wire resistive touchscreen solution or tempered smudge resistant protected glass",
+    "Combo touch interface: RS-232 and USB",
+    "Dual signal interface with VGA & DVI",
+    "Standard integrated frame",
+    "Versatile mounting methods for rear mounting and VESA mounting",
+    "Anti-Reflective treatment (optional)",
+    "Ultra high brightness solution of 1200 cd/m² for outdoor application (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3210/mod_9023626b-9c11-40a6-b4ba-04b576877046"
+},
+{
+  "nome": "IDS-3212",
+  "desc": "12\" SVGA / XGA Industrial Panel Mount Monitor",
+  "detalhes": [
+    "12.1\" SVGA / XGA LCD panel with LED backlight for 20% power savings and environmental protection",
+    "Operating temperature: -20° C to +60° C",
+    "5-wire resistive touchscreen solution or 3mm tempered smudge resistant protected glass",
+    "Combo touch interface, both RS-232 and USB",
+    "Dual signal interface with VGA & DVI",
+    "Standard integrated frame",
+    "Versatile mounting method for rear mounting and VESA mounting",
+    "Anti-Reflective treatment (optional)",
+    "Ultra high brightness solution of 1200 cd/m² for outdoor applications (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3212/mod_55af20b6-0bf8-4115-b13a-38efd2df6111"
+},
+{
+  "nome": "IDS-3215",
+  "desc": "15\" XGA Industrial Panel Mount Monitor",
+  "detalhes": [
+    "15\" XGA LCD panel with LED backlight for 20% power saving and environmental protection",
+    "Operating temperature: -20° to +60° C",
+    "5-wire resistive touchscreen solution or tempered smudge resistant protected glass",
+    "Combo touch interface: RS-232 and USB",
+    "Dual signal interface with VGA & DVI",
+    "Standard integrated frame",
+    "Versatile mounting methods for rear mounting and VESA mounting",
+    "Anti-Reflective treatment (optional)",
+    "Ultra high brightness solution of 1200 cd/m² for outdoor applications (optional)"
+  ],
+  "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3215/mod_3460b5a9-3dfe-4c8b-8420-4a53ed7e5a51"
+},
+  {
+    "nome": "IDS-3217",
+    "desc": "17\" SXGA Industrial Panel Mount Monitor",
+    "detalhes": [
+      "17\" SXGA LCD panel with LED backlight for 20% power saving and environmental protection",
+      "Operating temperature: -20° to +60° °C",
+      "5-wire resistive touchscreen solution or 3 mm tempered smudge-resistant protected glass",
+      "Combo touch interface: RS-232 and USB",
+      "Dual signal interface with VGA & DVI (on selected models)",
+      "Standard integrated frame",
+      "Versatile mounting methods for front mounting and VESA mounting",
+      "Anti-Reflective treatment (optional)",
+      "Ultra high brightness solution of 1200 cd/m² for outdoor applications (optional)"
+    ],
+    "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3217/mod_9449d29c-f55c-406c-aee9-218adf62d66f"
+  },
+  {
+    "nome": "IDS-3218W",
+    "desc": "18.5\" HD, 1366 x 768, VGA/DVI/HDMI interface, Panel Mount Monitor",
+    "detalhes": [
+      "18.5\" 1366×768 HD LCD panel with LED backlight for 20% power saving",
+      "Operating temperature: 0° to 55° °C",
+      "With 5-wire resistive or P-cap touchscreen solution (optional)",
+      "Touch interface: USB and RS-232",
+      "Multiple signal interface with VGA, DVI and HDMI",
+      "Integrated bracket for easy installation",
+      "Versatile mounting methods for rear mounting and VESA mounting",
+      "Anti-Reflective treatment (optional)",
+      "Optical bonding (optional)"
+    ],
+    "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3218w/mod_104e2959-bacf-4e74-b258-95c0976d36a3"
+  },
+  {
+    "nome": "IDS-3219",
+    "desc": "19\" SXGA Industrial Panel Mount Monitor",
+    "detalhes": [
+      "19\" SXGA LCD panel with LED backlight for 20% power saving and environmental protection",
+      "Operating temperature: 0° to +45° °C",
+      "5-wire resistive touchscreen solution or 3 mm tempered smudge resistant protected glass",
+      "Combo touch interface: RS-232 and USB",
+      "Dual signal interface with VGA & DVI",
+      "Standard integrated frame",
+      "Versatile mounting methods for front mounting and VESA mounting",
+      "Anti-Reflective treatment (optional)",
+      "Ultra high brightness solution of 1200 cd/m² for outdoor applications (optional)"
+    ],
+    "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3219/mod_c1a4ee05-6d79-44d8-bd18-2bb46a2f3d0e"
+  },
+  {
+    "nome": "IDS-3221W",
+    "desc": "21.5\" Full HD, 1920 x 1080, VGA/DVI/HDMI interface, Panel Mount Monitor",
+    "detalhes": [
+      "21.5\" Full HD 1920 x 1080 LCD panel with LED backlight for 20% power saving and environmental protection",
+      "Operating temperature: 0 to 45° °C",
+      "5-wire resistive, Pcap touchscreen or 3 mm tempered protected glass",
+      "USB and RS-232 touch interface",
+      "Flexible signal interface: VGA, DVI & HDMI",
+      "Integrated bracket for easy installation",
+      "Versatile mounting methods for rear mounting and VESA mounting",
+      "Anti-Reflective surface treatment for sunlight readable enhancement (optional)"
+    ],
+    "product_url": "https://www.advantech.com/en/products/7ed62d86-a47d-45c4-b0ac-1316741661ce/ids-3221w/mod_2a5d63b7-23d6-4c5f-b96e-d3072271ff09"
+  },
+  {
+    "nome": "IDP31-101W",
+    "desc": "10.1\" flat fronted touch IP67 monitor, ultra thin profile, rugged glass fronted",
+    "detalhes": [
+      "HDMI Interface",
+      "Multi-touch PCT touch overlay",
+      "Thin profile enclosure — no need for additional enclosures or metalwork",
+      "Wide view-angle 89°/89°/89°/89° for portrait and landscape mode",
+      "True flat surface — contemporary Proflat style",
+      "Wide operating temperature",
+      "10.1\" 1280x800 LCD with Multi-touch PCT touch overlay",
+      "IP67 rated front panel design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1-2mljjv/idp31-101w/mod_883b3b1a-f65a-4a73-b9de-2917b0a3bc82"
+  },
+   {
+    "nome": "IDP31-150",
+    "desc": "15\" 100% flat fronted touch industrial grade monitor, ultra thin profile, rugged glass fronted",
+    "detalhes": [
+      "Multiple signal interface: HDMI, VGA, DVI",
+      "Multi-touch projected capacitive touchscreen",
+      "Built-in speakers",
+      "Thin profile enclosure — no need for additional enclosures or metalwork",
+      "True flat surface — contemporary Proflat style",
+      "Brightness: 500 nits",
+      "Operating temperature: -20° to 60° C",
+      "15\" XGA LCD panel with LED backlight for long service life"
+    ],
+    "product_url": "https://www.advantech.com/en-us/products/1a9cff86-9354-4299-9496-183c03fefaa8/idp31-150/mod_5e512f10-14c2-4688-83bb-1fd43c2713a0"
+  },
+  {
+    "nome": "IDP31-156W",
+    "desc": "15.6\" 100% flat fronted touch industrial grade monitor, ultra thin profile, rugged glass fronted",
+    "detalhes": [
+      "Multiple signal interface: HDMI, VGA, DVI",
+      "Multi-touch projected capacitive touchscreen",
+      "Built-in speakers (optional)",
+      "Thin profile enclosure — no need for additional enclosures or metalwork",
+      "True flat surface — contemporary Proflat style",
+      "Brightness: 450/1200 nits (before touch glass)",
+      "Wide operating temperature",
+      "15.6\" LCD panel with LED backlight for long service life",
+      "IP rated front panel design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1a9cff86-9354-4299-9496-183c03fefaa8/idp31-156w/mod_7e283289-949d-4536-a563-a1f89e389849"
+  },
+  {
+    "nome": "IDP31-215W",
+    "desc": "21.5\" 100% flat fronted touch industrial grade monitor, ultra thin profile, rugged glass fronted",
+    "detalhes": [
+      "Multiple signal interface: HDMI, VGA, DVI",
+      "Multi-touch PCT touch overlay",
+      "Thin profile enclosure — no need for additional enclosures or metalwork",
+      "Built-in audio and speakers (optional)",
+      "Wide view-angle 89°/89°/89°/89° for portrait and landscape mode",
+      "True flat surface — contemporary Proflat style",
+      "Wide operating temperature",
+      "21.5\" LCD panel with LED backlight for long service life",
+      "IP rated front panel design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1a9cff86-9354-4299-9496-183c03fefaa8/idp31-215w/mod_50a30edc-c522-489f-8674-b209fb29f651"
+  },
+  {
+    "nome": "IDP31-238W",
+    "desc": "23.8\" Flat Touch Display, FHD resolution, 350nits/1000nits brightness, VGA/DVI/DP/HDMI inputs",
+    "detalhes": [
+      "23.8\" Full HD 1920 x 1080 resolution",
+      "Operating temperature: 0 ~ 45 °C",
+      "P-cap touchscreen (USB interface) and glass solutions",
+      "Brightness options: 350 nits / 1000 nits",
+      "Flexible signal interface: VGA, DVI, DP and HDMI (HB model)",
+      "LED light strip surround",
+      "Versatile VESA mounting",
+      "12V DC input",
+      "IP (front), Non-IP and High brightness solutions"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1a9cff86-9354-4299-9496-183c03fefaa8/idp31-238w/mod_52816761-2b41-485f-848f-9dd4fe7c65a3"
+  },
+  {
+    "nome": "IDP31-270W",
+    "desc": "27\" flat touch display with surround LED strip, full HD resolution, multiple input sources VGA/DVI/DP",
+    "detalhes": [
+      "27\" Full HD 1920 x 1080 resolution",
+      "Operating temperature: 0 ~ 45 °C",
+      "P-cap touchscreen and glass solutions",
+      "Touch interface: USB",
+      "Flexible signal interface: VGA, DVI & DP",
+      "LED light strip surround",
+      "Versatile VESA mounting",
+      "12V DC input"
+    ],
+    "product_url": "https://www.advantech.com/en/products/1a9cff86-9354-4299-9496-183c03fefaa8/idp31-270w/mod_a48a57e8-716e-4566-9ce7-bd5ed2ab70ec"
+  },
+   {
+    "nome": "IDP31-070W",
+    "desc": "7\" flat-fronted touch IP67 monitor, wide operating temperatures, rugged glass fronted, IK08",
+    "detalhes": [
+      "HDMI Interface",
+      "Multi-touch PCT touch overlay",
+      "Thin profile enclosure — no need for additional enclosures or metalwork",
+      "Wide view-angle 85°/85°/85°/85° for portrait and landscape mode",
+      "True flat surface — contemporary Proflat style",
+      "Wide operating temperature",
+      "7\" 800x480 LCD with Multi-touch PCT touch overlay",
+      "IP67 rated front panel design"
+    ],
+    "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/idp31-070w/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+  },
+  {
+    "nome": "DSD-3032",
+    "desc": "32\" FHD Signage Display, 350 nits",
+    "detalhes": [
+      "Resolução 1920 x 1080 (FHD)",
+      "Brilho de 350 nits",
+      "Ângulo de visão ultra-wide 178°",
+      "Tempo de resposta de 8 ms",
+      "Consumo de energia de 70 W",
+      "Vida útil de 50,000 horas",
+      "Áudio: Speaker 10W x 2",
+      "Design fanless",
+      "Toque opcional Optical Touch com suporte a Multi Touch"
+    ],
+    "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/dsd-3032/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+  },
+  {
+    "nome": "DSD-3055",
+    "desc": "55\" UHD Industrial Digital Signage Monitor & Touch",
+    "detalhes": [
+      "Resolução 3860 x 2160 (UHD)",
+      "Contraste 4000:1",
+      "Ângulo de visão ultra-wide 178°",
+      "Tempo de resposta de 6.5 ms",
+      "Consumo de energia de 145 W",
+      "Vida útil de 50,000 horas",
+      "Design fanless",
+      "Brilho de 500 nits",
+      "Toque Optical Touch com suporte a Multi Touch"
+    ],
+    "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/dsd-3055/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+  },
+  {
+    "nome": "DSD-5028",
+    "desc": "28\" Industrial Stretched Signage Display",
+    "detalhes": [
+      "Resolução 1920 x 360 (Stretched)",
+      "Backlight LED",
+      "Ângulo de visão ultra-wide 178°",
+      "Ajuste dinâmico de contraste",
+      "Função Super Color Tone",
+      "Interfaces: VGA/DVI/HDMI",
+      "Design durável e profissional",
+      "Montagem em parede com interface 200 x 100 mm",
+      "Ideal para exibição de informações"
+    ],
+    "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/dsd-5028/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+  },
+  {
+    "nome": "DSD-5038",
+    "desc": "38\" Stretched Display, proporção 16 : 4.5",
+    "detalhes": [
+      "Resolução 1920 x 538 (Stretched)",
+      "Backlight LED",
+      "Ângulo de visão de 176°",
+      "Ajuste dinâmico de contraste",
+      "Função Super Color Tone",
+      "Entradas HDMI/DVI/VGA",
+      "Design durável e profissional",
+      "Montagem em parede com interface 200 x 100 mm",
+      "Ideal para exibição de informações"
+    ],
+    "product_url": "https://www.advantech.com/en/products/42f40fcf-a4a1-4ff2-962e-bf1d22c5f145/dsd-5038/mod_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+  },
+   {
+    "nome": "DSD-3043",
+    "desc": "43\" FHD Industrial Digital Signage Monitor & Touch Screen",
+    "detalhes": [
+      "Resolução 1920 x 1080 (FHD)",
+      "Contraste 4000:1",
+      "Brilho de 500 nits",
+      "Tempo de resposta de 8 ms",
+      "Ângulo de visão ultra-wide 178°",
+      "Vida útil de 50,000 horas",
+      "Toque opcional Optical Touch com suporte a Multi Touch"
+    ],
+    "product_url": "https://www.advantech.com/en/products/ddd2f329-66d4-443d-9e59-6fab6a74c668/dsd-3043/mod_472e35f2-b07b-40ff-bd00-5870dbd43fab"
+  },
+  {
+    "nome": "EPC-S101CQ-S6A1",
+    "desc": "Embedded 3.5″ SBC system com Intel Celeron N3160, HDMI, VGA, mSATA",
+    "detalhes": [
+      "Processador Intel Celeron N3160 (Braswell), até 2.24 GHz",
+      "Memória DDR3L‑1600 até 8 GB (soquete SODIMM)",
+      "Gráficos Intel Gen8 LP suportando H.265/H.264/MVC/VC‑1/VP8/JPEG",
+      "Saídas HDMI até 2560×1600@60 Hz e VGA 1920×1200@60 Hz",
+      "Interfaces frontais: 4 USB (2×USB2.0, 2×USB3.0), 2 LAN Gigabit",
+      "Interfaces traseiras: VGA, HDMI, 4 × COM (2×RS‑232, 2×RS‑232/422/485), DIO, áudio, antena",
+      "Mounting flexível: VESA, parede, DIN‑rail",
+      "Temperatura operacional de 0 ~ 50 °C, não operacional de ‑40 ~ 85 °C"
+    ],
+    "product_url": "https://www.advantech.com/en/products/8ec8657c-b0a0-4265-968b-5ef62b15af70/epc-s101/mod_ac125898-995d-47b2-a252-644622d5f79c"
+  },
+  {
+    "nome": "EPC-S201",
+    "desc": "Barebone Embedded SBC fanless com Intel Atom N3350 para montagem DIN‑Rail ou parede",
+    "detalhes": [
+      "Processador Intel Atom N3350 (Braswell) dual‑core até 2.40 GHz",
+      "Memória DDR3L até 8 GB, soquete SODIMM",
+      "Saída VGA, 2 × USB 3.0, 1 LAN em painel frontal",
+      "Interfaces laterais: DIO (8‑bit), COM (RS‑232/422/485)",
+      "Suporte a mSATA e Mini‑PCIe para expansão",
+      "Mounting: desk, parede ou DIN‑rail",
+      "Temperatura operacional 0 ~ 50 °C, não operacional ‑40 ~ 85 °C"
+    ],
+    "product_url": "https://www.advantech.com/en/products/8ec8657c-b0a0-4265-968b-5ef62b15af70/epc-s201/mod_bbc0d57e-45dd-43c0-8780-110a4a48ef88"
+  },
+  {
+    "nome": "EPC-S202E-S8A1",
+    "desc": "Sistema slim fanless com Intel Atom E3930 (E3900 series), 4 GB LPDDR4 e 32 GB eMMC",
+    "detalhes": [
+      "Processador Intel Atom x5‑E3930 até 1.8 GHz (E3900 series)",
+      "Memória LPDDR4‑2400 de 4 GB onboard (expansível até 8 GB)",
+      "Armazenamento onboard eMMC de 32 GB",
+      "Saída HDMI até 4K@30 Hz",
+      "Interfaces: 1 × COM (RS‑232/422/485), 1 × DIO (8‑bit), 2 USB 3.0, 2 LAN Gigabit",
+      "Expansão M.2 E‑Key e Mini‑PCIe/mSATA",
+      "Mounting para rack DIN‑Rail, parede ou mesa",
+      "Temperatura operacional ‑20 ~ 60 °C, não operacional ‑40 ~ 85 °C"
+    ],
+    "product_url": "https://www.advantech.com/en/products/8ec8657c-b0a0-4265-968b-5ef62b15af70/epc-s202/mod_0b4a38e9-4cb6-4902-88ca-88cd0d580cfb"
+  },
+  {
+    "nome": "EPC-C301",
+    "desc": "Intel® 8th Gen. Core i7/i5 Processor Fanless Embedded System",
+    "detalhes": [
+      "Processadores Intel 8ª Geração Core i7‑8665UE ou i5‑8365UE, TDP 15 W",
+      "Design fanless slim para montagem em mesa, parede ou trilho DIN",
+      "Suporta dual display via HDMI 1.4 e DP 1.2 (até 4 K)",
+      "Interfaces: 4 × GbE LAN, 4 × USB 3.1, 4 × USB 2.0, CAN Bus isolado, 4 × COM (RS‑232/422/485)",
+      "Slot de expansão: M.2 M-Key 2280 (NVMe), E-Key 2230, B-Key 3042, 1 × mini‑PCIe full size",
+      "Entrada de alimentação: 12 V DC",
+      "Temperatura operacional extensa: −20 °C ~ 60 °C",
+      "Suporta plataformas: iManager, SUSI APIs, WISE‑DeviceOn e Edge AI Suite"
+    ],
+    "product_url": "https://www.advantech.com/en/products/f6935c48-a0b2-4c68-894a-40eb39c832b3/epc-c301/mod_0cdaa0da-61e8-4078-ac65-0d4cd00789f7"
+  },
+  {
+    "nome": "EPC-R3710",
+    "desc": "Rockchip RK3399 Cortex-A72 UIO40-Express Edge AI Box Computer with 4K display, 2xLan",
+    "detalhes": [
+      "Rockchip RK3399 ARM Dual Cortex-A72 e Quad Cortex-A53, até 1.8 GHz",
+      "UIO40-Express I/O expansion",
+      "Suporte para display 4K",
+      "2 portas Gigabit Ethernet",
+      "Sistema fanless, ideal para aplicações AI Edge"
+    ],
+    "product_url": "https://www.advantech.com/en/products/a6f86282-b6ed-4f54-b5b1-cddf3e3ab3cc/epc-r3710/mod_3609e085-b150-4569-b20d-9324fd0a26fd"
+  },
+   {
+    "nome": "EPC-R4680",
+    "desc": "Rockchip RK3288 Cortex-A17 ARM Based Box Computer with 4K display, 6 USB2.0, 6 UART, 1 GbE and 8 GPIO",
+    "detalhes": [
+      "Rockchip RK3288 Cortex-A17 Quad core até 1.6 GHz",
+      "2GB DDR3L onboard e 8GB eMMC",
+      "Suporta decodificação de vídeo 4K H.264/H.265",
+      "Interface: HDMI 3840x2160@60Hz, VGA 1920x1200@60Hz",
+      "6 portas UART, 5 USB 2.0, 1 USB OTG, 1 GbE, 8 GPIO",
+      "Slots para expansão: M.2 para Wi-Fi/BT, Mini-PCIe para módulo 4G",
+      "Suporte a sistemas Linux e Android"
+    ],
+    "product_url": "https://www.advantech.com/en/products/a6f86282-b6ed-4f54-b5b1-cddf3e3ab3cc/epc-r4680/mod_499a34f8-122e-4253-9716-b2b8d39a50c4"
+  },
+  {
+    "nome": "EPC-R7200",
+    "desc": "Industrial-Grade Nvidia Jetson Barebone PC",
+    "detalhes": [
+      "Compatível com módulos NVIDIA Jetson Xavier NX, TX2 NX e Nano",
+      "Barebone fanless ultra-compacto com design térmico de referência",
+      "Serviço AIM-Linux com drivers integrados para periféricos, suporta NVIDIA JetPack SDK",
+      "Aceita expansão via UIO40-Express I/O",
+      "Design industrial robusto com suporte a ampla faixa de temperatura, entrada de energia e tolerância a vibração",
+      "Suporte WISE-DeviceOn para implantação rápida de AI em escala"
+    ],
+    "product_url": "https://www.advantech.com/en/products/c652530a-a4c1-4abd-8c1a-d42c9017d56d/epc-r7200/mod_79c021b3-a480-41f6-9dbb-b440b06d6d5f"
+  },
+  {
+    "nome": "EPC-R4760",
+    "desc": "Qualcomm APQ-8016 Cortex-A53 ARM Based Box Computer",
+    "detalhes": [
+      "Qualcomm Cortex-A53 APQ8016 Quad core até 1.2 GHz",
+      "1GB ou 2GB LPDDR3 e 8GB eMMC onboard",
+      "Interfaces: 1 HDMI, 1 RS-232/422/485, 1 GbE, 2 USB 2.0, 8 GPIO",
+      "Conectividade integrada Wi-Fi, Bluetooth e GNSS",
+      "Slots para expansão M.2 e Mini-PCIe",
+      "Faixa ampla de entrada de energia DC",
+      "Suporte para Android, Linux e Debian"
+    ],
+    "product_url": "https://www.advantech.com/en/products/a6f86282-b6ed-4f54-b5b1-cddf3e3ab3cc/epc-r4760/mod_fbe2c130-2b10-436f-9b27-d53422197d0e"
+  },
+  {
+    "nome": "EPC-R3430",
+    "desc": "NXP ARM Cortex-A9 i.MX6 Dual 1GHz Fanless Box",
+    "detalhes": [
+      "NXP Cortex-A9 i.MX6 Dual core 1GHz",
+      "1GB DDR3L e 4GB eMMC onboard",
+      "Interface HDMI",
+      "1 GbE, portas RS-232/422/485, 2 USB",
+      "Mini-PCIe com slot Nano SIM para 3G/LTE",
+      "M.2 Key E para Wi-Fi e Bluetooth",
+      "Suporte a Micro SD",
+      "UIO40-Express expansion: 1 RS-485, 8 GPIO, 2 RS-232, 2º LAN, CAN Bus"
+    ],
+    "product_url": "https://www.advantech.com/en-eu/products/a6f86282-b6ed-4f54-b5b1-cddf3e3ab3cc/epc-r3430/mod_efe61a54-aac5-4f1a-8cbf-d65f83015040"
+  },
+  {
+    "nome": "EPC-R3220",
+    "desc": "TI Sitara AM3352 Cortex-A8 Arm-Based Box Computer / IoT Gateway",
+    "detalhes": [
+      "TI Sitara AM3352 Cortex-A8",
+      "1GB DDR e 8GB eMMC onboard",
+      "2 portas RS232/485, 6 GPIOs, 1 USB",
+      "3 LEDs programáveis",
+      "Segurança TPM 2.0 habilitada",
+      "Sistema operacional Yocto Linux",
+      "Montagem em parede ou trilho DIN",
+      "Faixa de energia 12~24 VDC, temperatura operacional -20 ~ 70 °C"
+    ],
+    "product_url": "https://www.advantech.com/en/products/a6f86282-b6ed-4f54-b5b1-cddf3e3ab3cc/epc-r3220/mod_ba26afd3-1706-4172-a93c-3f2c7dc9cc41"
+  },
+  {
+  "nome": "EPC-R3720",
+  "desc": "NXP i.MX8M Plus Cortex-A53 Edge AI Box Computer",
+  "detalhes": [
+    "NXP i.MX8M Plus Cortex-A53 Quad/Dual core até 1.8 GHz",
+    "6 GB LPDDR4 4000 MT/s onboard",
+    "HDMI até 3840 × 2160 a 30 Hz",
+    "Dual GbE LAN, 1 USB 2.0 e 1 USB 3.2 Gen 1",
+    "1 slot Micro SD e 1 slot Nano SIM",
+    "1 slot mini-PCIe para 3G/4G, 1 slot M.2 2230 Key E",
+    "Suporte para Windows 10 IoT Enterprise ARM, Yocto Linux e Android BSP",
+    "4 tipos de I/O traseiro para focos verticais: IEM, Autoatendimento, Automação e Redes"
+  ],
+  "product_url": "https://www.advantech.com/en/products/de3a2c28-afbd-417d-bad7-469cbeb34e37/epc-r3720/mod_fde326be-b36e-4044-ba9a-28c4c49a25c6"
+},
+{
+  "nome": "UBX-110K",
+  "desc": "4K UHD fanless edge computer with Intel® N97 or Core™ i3-N305 processor",
+  "detalhes": [
+    "Intel® N97 ou Core™ i3-N305 integrado",
+    "Chip TPM 2.0 integrado para segurança de dados",
+    "Suporte a três monitores para maior alcance visual",
+    "Suporte a até 4K UHD por saída de vídeo",
+    "2 slots M.2 2280 SATA SSD para expansão de armazenamento",
+    "Tampa superior com isolamento térmico para segurança na instalação e uso",
+    "Compatível com Windows 10 IoT LTSC 2021, Windows 11 IoT e Linux"
+  ],
+  "product_url": "https://www.advantech.com/en/products/a4d5fede-290b-4141-8ab9-1d15f013606a/ubx-110k/mod_116b521c-68be-4997-97d8-46e2f89b74c8"
+},
+{
+  "nome": "UBX-110H",
+  "desc": "8K UHD fanless edge computer with Intel® Celeron® 6305E or 11th gen Core™ processor",
+  "detalhes": [
+    "Intel® Celeron® 6305E ou Core™ i3/i5/i7 de 11ª geração integrado",
+    "Chip TPM 2.0 integrado para segurança de dados",
+    "Suporte a três monitores para expansão visual detalhada",
+    "2 slots M.2 2280 SATA SSD com suporte a RAID 0/1",
+    "Conexão USB-C suporta até 8K UHD, HDMI 1 e 2 até 4K UHD",
+    "Tampa superior com isolamento térmico para segurança",
+    "Compatível com Windows 10 IoT LTSC 2021, Windows 11 IoT, Linux e Android 14.0"
+  ],
+  "product_url": "https://www.advantech.com/en/products/a4d5fede-290b-4141-8ab9-1d15f013606a/ubx-110h/mod_7d7247e6-691c-45d5-b113-02a927e6849b"
+},
+{
+  "nome": "UBX-210K",
+  "desc": "Ubiquitous Box Computer with Intel® N97/Core™ i3-N305 Processors",
+  "detalhes": [
+    "Intel® N97 ou Core™ i3-N305 integrado",
+    "Placa de I/O modular destacável com opções ricas e flexíveis de conectividade",
+    "Design exclusivo de dissipador em formato X para melhor dissipação térmica",
+    "Sem limitação de direção de montagem com base no fluxo de ar",
+    "Chip TPM 2.0 para criptografia e segurança de dados",
+    "1 slot DDR5 SODIMM e 2 slots M.2 2280 SATA SSD",
+    "Compatível com módulo Wi-Fi e Bluetooth opcional",
+    "Suporte para Windows 10 IoT LTSC, Windows 11 IoT ou Linux"
+  ],
+  "product_url": "https://www.advantech.com/en/products/3ab0e697-547d-4003-bc6b-c77ab9e2e0a6/ubx-210k/mod_0630eb99-0133-464f-b7e7-ff19e44ef173"
+},
+{
+  "nome": "UBX-210H",
+  "desc": "Ubiquitous Box Computer with Intel® Celeron® 6305E/Core™ i3/i5/i7 Processors",
+  "detalhes": [
+    "Intel® Celeron® 6305E, Core™ i3-1115G4E, i5-1145G7E ou i7-1185G7E integrado",
+    "Placa de I/O modular destacável com opções ricas e flexíveis de conectividade",
+    "Design exclusivo de dissipador em formato X para melhor dissipação térmica",
+    "Sem limitação de direção de montagem com base no fluxo de ar",
+    "Chip TPM 2.0 para criptografia e segurança de dados",
+    "2 slots M.2 2280 SSD com suporte a RAID 0/1 para backup completo de dados",
+    "Compatível com módulo Wi-Fi e Bluetooth opcional",
+    "Suporte para Windows 10 IoT LTSC, Windows 11 IoT ou Linux"
+  ],
+  "product_url": "https://www.advantech.com/en/products/3ab0e697-547d-4003-bc6b-c77ab9e2e0a6/ubx-210h/mod_6b431898-804d-461a-9d5d-17acdf880cef"
+},
+{
+  "nome": "UBX-330M",
+  "desc": "NUC-Sized Edge Computer with Intel® Core™ Ultra 7/5 Processors and I/O Expansion",
+  "detalhes": [
+    "Equipado com três motores de IA para resposta rápida e baixa latência",
+    "Fator de forma compacto tipo NUC com expansão versátil de I/O",
+    "Acelerado por módulo de IA Hailo-8 M.2 com até 26 TOPS",
+    "Inclui gráficos Intel® Arc™ e plataforma vPro® Enterprise ou Essentials em SKUs selecionados",
+    "Suporte a tecnologias avançadas de backup e recuperação de desastres",
+    "Suporte a módulos de IA via expansão M.2 para inferência eficiente em borda",
+    "Solução térmica eficiente com design acústico silencioso",
+    "Kit de montagem versátil compatível com VESA, parede, poste, trilho DIN e braço articulado",
+    "Suporte a suporte opcional para fonte de alimentação dedicada com melhor gerenciamento de cabos"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/d4c159f7-b7e0-4559-adf4-d9181da32c64/ubx-330m/mod_69615ad5-2b81-4e8c-a737-f990d0990194"
+},
+{
+  "nome": "UBX-310",
+  "desc": "Intelligent, fanless embedded system powered by Intel® low power processor",
+  "detalhes": [
+    "Equipado com processador Intel® Celeron J1900/Core-i3/i5",
+    "Formatos disponíveis: montagem em parede ou uso em desktop",
+    "Suporte a memória DDR4-2133 MHz SO-DIMM até 16 GB",
+    "Múltiplas interfaces de I/O: USB, HDMI e VGA",
+    "1 slot MiniPCIe full-size e 2 slots mSATA",
+    "Conector de energia com trava para maior segurança",
+    "Compatível com WISE-PaaS/DeviceON e APIs de software embarcado"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/d4c159f7-b7e0-4559-adf4-d9181da32c64/ubx-310/mod_c37efeb5-0af4-4eb4-89dd-f6126e1141a3"
+},
+{
+  "nome": "UBX-510SZ",
+  "desc": "Edge Mini Server System com processadores Intel® Xeon® W-12xx ou 10ª geração Core™ i7/i5/i3",
+  "detalhes": [
+    "Equipado com processador Intel® Xeon® W-12xx ou 10ª geração Core™ i3/i5/i7",
+    "Compatível com Windows Server 2019/2022 ou Windows 10/11",
+    "Diversas portas de I/O para diferentes aplicações",
+    "Gaveta de disco rígido de fácil manutenção com capacidade para RAID",
+    "Expansão PCIe flexível"
+  ],
+  "product_url": "https://www.advantech.com/en-us/products/82abaed2-98ae-4ccc-b9ac-70f8a6760777/ubx-510sz/mod_de452d82-ce48-4a17-8f36-318a70fd5c0b"
+},
+{
+  "nome": "UBX-510SL",
+  "desc": "Edge Mini Server System com processadores Intel® 12ª/13ª geração Core™ i7/i5/i3",
+  "detalhes": [
+    "Equipado com processador Intel® 12ª/13ª geração Core™ i3/i5/i7",
+    "Compatível com Windows Server 2022 ou Windows 10/11",
+    "Diversas portas de I/O para diferentes aplicações",
+    "Compatível com placas gráficas Intel®/NVIDIA®, Advantech DVP, VEGA e placas adicionais PCIe para aplicações de IA em varejo",
+    "Gaveta de disco rígido de fácil manutenção com capacidade para RAID"
+  ],
+  "product_url": "https://www.advantech.com/pt-br/products/82abaed2-98ae-4ccc-b9ac-70f8a6760777/ubx-510sl/mod_17f015d7-7436-46a4-9d21-80556557caa0"
+},
+{
+  "nome": "USM-500R",
+  "desc": "Mini torre/Edge Computer standalone com processador Intel® 8ª/9ª geração",
+  "detalhes": [
+    "Equipado com processador Intel® 8ª/9ª geração Core™ i7/i5/i3 e chipset Intel® Q370",
+    "Suporte a até 3 slots PCIe para integração com placa gráfica, placa de captura etc.",
+    "Suporte a até 128GB RAM (4 x DDR4 2400/2666, não ECC)",
+    "Plataforma confiável para computação de borda e processamento de IA/gráficos",
+    "Armazenamento via M.2 SSDs e HDDs SATA",
+    "Compatível com múltiplos sistemas operacionais: Windows/Linux"
+  ],
+  "product_url": "https://www.advantech.com/en/products/82abaed2-98ae-4ccc-b9ac-70f8a6760777/usm-500r/mod_7229003d-bbaf-4dfc-aa62-f8521295f979"
+},
+{
+  "nome": "AIR-021",
+  "desc": "AI Inference System Based on NVIDIA® Jetson Orin NX/ Orin Nano",
+  "detalhes": [
+    "Compact and high performance AI box",
+    "NVIDIA® Jetson Orin NX 16GB/8GB and Orin Nano 8GB/4GB Modules",
+    "12~24 V wide power and –10~55 °C wide temp. supported",
+    "Multiple IO ports: LAN, DIO, COM, CANBus, USB 3.2 and MIPI over Type C",
+    "Versatile expansions with M.2 B key, M.2 E key, SD support",
+    "Support Linux Ubuntu 22.04 LTS e JetPack SDK 6.2 and above",
+    "GenAI Studio support for fine-training models and inference"
+  ],
+  "product_url": "https://www.advantech.com/en/products/932c8818-07cc-4917-89e9-7a678ddc029c/air-021/mod_8d927288-90ef-40d0-b192-f4e86b3d5c7c"
+},
+{
+  "nome": "AIR-020",
+  "desc": "AI Inference System Based on NVIDIA Jetson Nano/TX2 NX/ Xavier NX",
+  "detalhes": [
+    "Compact and performance AI box design",
+    "NVIDIA Jetson Nano/ TX2 NX/ Xavier NX embedded",
+    "Wide operating temperature range",
+    "Multiple IO ports: LAN, DIO, COM, USB 3.1 and USB type C",
+    "Additional M.2 2280 expansion storage",
+    "Edge AI Suite AI Utility Support for pre-trained models and deep learning",
+    "Linux BSP supported",
+    "WISE-DeviceOn supported for quick AI deployment at scale"
+  ],
+  "product_url": "https://gst.advantech.com/products/AIR-AI-Inference-Systems/sub/932c8818-07cc-4917-89e9-7a678ddc029c"
+},
+{
+  "nome": "AIR-030",
+  "desc": "AI Inference System Based on NVIDIA® Jetson AGX Orin™",
+  "detalhes": [
+    "Compact and high performance AI box",
+    "NVIDIA® Jetson AGX Orin™ 64GB and 32GB Modules",
+    "9~36 V wide power and –10~60 °C wide temp. supported",
+    "Multiple IO ports: LAN, DIO, COM, CANBus, USB 3.2 and USB type C",
+    "Versatile expansions with M.2 B key, M.2 E key, SD, PCIe x16 (optional) support",
+    "Support Linux Ubuntu 20.04 LTS and JetPack SDK 5.1 and above",
+    "IEC 61000-6-4 Heavy Industry Certificate",
+    "Certified by AWS Greengrass"
+  ],
+  "product_url": "https://gst.advantech.com/products/AIR-030/mod/A08E709E-09AF-4124-BF1F-42D12C1C2FB0"
+},
+{
+  "nome": "AIR-101",
+  "desc": "Edge AI Inference System with Intel Atom® E3940 QC SoC and Two Intel MA2485 VPUs",
+  "detalhes": [
+    "Intel Atom E3940 Quad Core SoC turbo burst up to 1.8 GHz",
+    "Intel® Movidius™ Myriad™ X VPU MA2485 x 2 Built-in",
+    "SATA Slim 64G SSD x 1 Built-in",
+    "204-pin SO-DIMM DDR3L 8 GB memory x 1 built-in",
+    "DIN-Rail AI system with essential I/O ports on front-side bezel",
+    "M.2 2230 for WIFI or optional VEGA-320 module",
+    "12 V ~ 28 V wide-range power input",
+    "Integrated with Advantech Edge AI Suite and support Intel OpenVINO",
+    "No RED certification"
+  ],
+  "product_url": "https://www.advantech.com/en-us/products/932c8818-07cc-4917-89e9-7a678ddc029c/air-101/mod_5a674abb-d3a9-4683-a7b5-4b21fd196dbc"
+},
+{
+  "nome": "AIR-120",
+  "desc": "26 TOPS AI Inference System with Intel® Atom® Processor and Hailo-8 AI Acceleration Module",
+  "detalhes": [
+    "Intel® Atom™ x7433RE, Core™ i3-N305, Processor N97",
+    "Empowered by Hailo-8 M.2 AI module up to 26 TOPS",
+    "Vertical I/O: 1 x HDMI, 1 x DP, 2x LAN, 4x USB, 2x COM",
+    "Flexible expansion with 3x M.2: B key 2280, E key 2230, B key 3052",
+    "-20~60 °C wide temperature and 12-24 V wide voltage support",
+    "Hailo AI Dev. Toolkit supported"
+  ],
+  "product_url": "https://www.advantech.com/en/products/932c8818-07cc-4917-89e9-7a678ddc029c/air-120/mod_4825f467-9872-48cf-a925-2ee3236415e3"
+},
+{
+  "nome": "AIR-150",
+  "desc": "26 TOPS AI Inference System Intel 13th Gen. with Hailo-8 AI",
+  "detalhes": [
+    "Intel 13th gen. Core i3/i5 up to 14 Watt with 10 Cores",
+    "Empowered by Hailo-8 M.2 AI module up to 26 TOPS",
+    "Compact Fanless 156 × 112 × 60 mm dimensions",
+    "Dual 4K lockable HDMI 2.0b, 4096×2160 resolution",
+    "Vertical I/O: 3x COM / 1x DIO / 2x CANBus / 2x LAN / 4x USB",
+    "Rich AI toolkits for runtime integration and model deployment",
+    "Flexible expansion with 3x M.2: M key 2280, E key 2230, B key 3042",
+    "-20~60 °C wide temperature and 12-24 V wide voltage support"
+  ],
+  "product_url": "https://www.advantech.com/en/products/932c8818-07cc-4917-89e9-7a678ddc029c/air-150/mod_eceaaa76-fef5-4f97-ac30-5afedf947a30"
+},
+{
+  "nome": "AIR-310",
+  "desc": "MXM GPU Edge AI System with Intel® Core™ 12th/13th/14th gen processors i3/i5/i7/i9 LGA1700",
+  "detalhes": [
+    "Support Intel® 12th/13th/14th Gen. Core™ i3/i5/i7/i9 processor up to 65 W",
+    "DDR5 SO-DIMM memory support up to 64 GB",
+    "Dual display: HDMI + DP",
+    "Support MXM 3.1 Type A GPU card up to 60 W",
+    "Support 2 × 2.5 GbE, 16-bit DIO, 2 × CANBus, TPM 2.0",
+    "Qualified for Edge AI SDK"
+  ],
+  "product_url": "https://www.advantech.com/en-us/products/932c8818-07cc-4917-89e9-7a678ddc029c/air-310/mod_227bd3dd-5c9a-4a18-b1b3-05f9ddc32dc9"
+},
+{
+  "nome": "AIR-500D",
+  "desc": "Intel® Xeon® D-1700 Series Extreme AI Edge Server",
+  "detalhes": [
+    "Intel® Xeon® D-1700 series processor",
+    "4x DDR4 SO-DIMM sockets support ECC/non-ECC memory up to 128 GB",
+    "Support Dual PCIe x16 350 W high-performance GPU cards",
+    "Rich storage with 4x 2.5” SATAIII SSD RAID 0/1 support",
+    "Versatile expansions with PCIe x1/x4/x16, M.2 B key and E key support",
+    "Built-in 1200 W power supply",
+    "IPMI 2.0-compliant management with reliability and security enhancements",
+    "WISE-DeviceOn supported for quick AI deployment at scale"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/932c8818-07cc-4917-89e9-7a678ddc029c/air-500d/mod_4ba7472c-76cf-4e72-bf20-db9c53994a50"
+},
+{
+  "nome": "AIR-410",
+  "desc": "Edge AI system powered by AMD Ryzen 8040 series processor",
+  "detalhes": [
+    "Ryzen 8040 processor up to 54 W with 39 TOPS AI computing (CPU+iGPU+iNPU)",
+    "Dual-channel memory up to 96 GB DDR5 5600 MT/s",
+    "1x PCIe x16 Slot to support 550 W GPU",
+    "Power supply 850 W built-in",
+    "Edge AI SDK AI toolkit",
+    "OS Windows 11 LTSC & Ubuntu 24.04 LTS compatible"
+  ],
+  "product_url": "https://www.advantech.com/en/products/5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8/air-410/mod_9d5deb7a-caff-49c4-96e4-69d705cabc20"
+},
+{
+  "nome": "AIR-420",
+  "desc": "Edge AI HPC Preliminary, most compact (28.6L) edge AI HPC supporting dual 3.9-slot GPUs",
+  "detalhes": [
+    "Compact 28.6 L chassis with dual 3.9-Slot Graphics",
+    "Smart fan algorithm for optimal noise control",
+    "Redundant power supply for unmatched reliability",
+    "AMD RYZEN 7000/9000 series processor with up to 12 cores",
+    "Total 4 PCIe slots (2 for AI cards, 2 for add-on cards)",
+    "Support GenAI Studio: No-code GUI to simplify LLM training",
+    "Support Edge AI SDK: Accelerate inference performance evaluation"
+  ],
+  "product_url": "https://www.advantech.com/en-us/products/5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8/air-420/mod_c42bb43e-6ab5-45b7-9837-52e0c1aac11a"
+},
+{
+  "nome": "AIR-510",
+  "desc": "4U AI Ready Edge System with Intel® Raptor Lake S Platform and NVIDIA Certified with RTX 6000 Ada",
+  "detalhes": [
+    "Intel® Raptor Lake S Platform supports Intel® Core™ 14th Gen processors",
+    "NVIDIA Certified with RTX 6000 Ada graphic card",
+    "4U height with 3 PCIe expansion slots",
+    "Up to 8x 2.5\" SATA SSD",
+    "Windows 10/11 IoT and Ubuntu OS compatible"
+  ],
+  "product_url": "https://www.advantech.com/en/products/5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8/air-510/mod_7ba400e1-0456-410c-ab5c-ecfe2d0e7c66"
+},
+{
+  "nome": "AIR-520",
+  "desc": "4U Edge AI HPC powered by AMD EPYC 7003 series processor, up to 64 cores, 768GB DRAM, four PCIe x16 expansion slots",
+  "detalhes": [
+    "Server grade performance powered by AMD EPYC 7003 processor",
+    "Up to 768 GB DDR4 3200 DRAM",
+    "Four PCIe x16 Expansion slots",
+    "Integrated 1200 W PSU for total 700 W graphic card TDP"
+  ],
+  "product_url": "https://www.advantech.com/en/products/5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8/air-520/mod_9e703e06-0ce1-42ac-8fcd-9af05c1689f7"
+},
+{
+  "nome": "AIR-530",
+  "desc": "Edge AI workstation based on NVIDIA IGX platform, 200GbE Ethernet bandwidth and 32 TFLOPS AI computing power",
+  "detalhes": [
+    "NVIDIA IGX Platform",
+    "NVIDIA Qualified with RTX A6000 graphic card",
+    "Plentiful IO Ports for Various Applications"
+  ],
+  "product_url": "https://www.advantech.com/en-eu/products/5bfbf78e-c85b-43d2-83d9-7c12eabc6ef8/air-530/mod_ad990e6a-fe97-4fa9-89c4-8a1b738b86f3"
+}
+]
