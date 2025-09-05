@@ -1,42 +1,34 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
 from pydantic import BaseModel
+from sentence_transformers import SentenceTransformer
 import json
 import faiss
 import re
 import numpy as np
-import os
 
 app = FastAPI()
 
-# CORS
+# Libera acesso ao frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # liberando para qualquer origem
+    allow_origins=["http://localhost:5173"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"]
 )
 
-# Servir arquivos estáticos do React
-app.mount("/static", StaticFiles(directory="frontend/build/static"), name="static")
+# Modelo de embeddings
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# Lazy load do modelo
-model = None
-def get_model():
-    global model
-    if model is None:
-        from sentence_transformers import SentenceTransformer
-        model = SentenceTransformer('all-MiniLM-L6-v2')
-    return model
-
-# Carregando produtos
+# Carregar produtos
 with open("produtos.json", "r", encoding="utf-8") as f:
     produtos = json.load(f)
 
-# Funções auxiliares (extrair_numeros, filtrar_produtos, detectar_serie etc.) mantidas
+# ---------------------------
+# Funções utilitárias
+# ---------------------------
+
 def extrair_numeros(texto):
     return re.findall(r'\b\d+\b', texto)
 
@@ -53,41 +45,48 @@ def filtrar_produtos_por_numeros(produtos, numeros):
     produtos_filtrados = [p for p in produtos if produto_contem_numeros(p, numeros)]
     return produtos_filtrados if produtos_filtrados else produtos
 
+
+
 def detectar_serie(prompt):
     prompt = prompt.lower()
-    # lista de keywords (ark_keywords, epc_keywords...) mantidas
-    ark_keywords = ["ark", "fanless", "intel core", "xeon", "embedded box pc", "industrial",
-        "automacao industrial", "iot", "visao computacional", "i/o expansivel",
-        "modular", "robusto", "temperatura ampla", "gerenciamento remoto",
-        "pci", "pc industrial", "expansao pci", "machine vision", "ai", "gpu",
-        "data acquisition", "comunicacao", "cabinet integration"]
+    
+    epc_keywords = [
+        "epc", "slim", "pequeno","fanless", "sem ventoinha",
+        "motherboards", "placas mãe", "mini pc", "mini computador"
+    ]
 
-    epc_keywords = ["epc", "epc-", "epc fanless", "epc intel", "epc box", "edge pc",
-        "edge computing", "computador compacto", "servidor compacto", "alto desempenho",
-        "computacao de borda", "din-rail", "m2", "m.2", "usb", "lan", "rs232",
-        "rs485", "isolado", "canbus", "iot gateway", "edge ai", "gateway"]
+    ark_keywords = [
+        "ark ", "sem ventoinha", "fanless", "industrial pc fanless", "industrial pc", "embedded", "embarcado", 
+        "fanless embedded computers", "in-vehicle", "i/o", "ultra-small"
+    ]
 
-    ubx_keywords = ["ubx", "ubx series", "ubx fanless", "ubx industrial", "mini pc",
-        "ultra compacto", "tiny pc", "pc pequeno", "formato reduzido",
-        "sem ventoinha pequeno", "kiosk pc", "pdv", "pos system",
-        "display", "touchscreen", "hmi", "interface homem maquina",
-        "sinalizacao digital", "retalho", "ponto de venda"]
+    ubx_keywords = [
+        "ubx", "advanpos", "oem/odm", "ponto de venda", "point of sale",
+        "mini edge servers", "pontos de autoatendimento"
+    ]
 
-    air_keywords = ["air", "ai inference system", "ai inference", "gpu", "deep learning",
-        "visao computacional", "inteligencia artificial", "edge ai",
-        "processamento de imagem", "ai pc", "sdk", "ros", "openvino",
-        "intel edge insights", "robotic sdk", "iot analytics",
-        "manufacturing ai", "healthcare ai", "retail ai"]
+    air_keywords = [
+        "air", "cpu", "npu", "ai", "integração de ia", "inteligência artificial",
+        "nvidia", "jetson", "jetson agx orin", "jetson nano", "inferência de ia",
+        "machine learning", "visão computacional"
+    ]
 
-    ids_keywords = ["monitor industrial", "display industrial", "tela robusta",
-        "touchscreen industrial", "hmi", "painel de controle", "painel touch",
-        "interface homem maquina", "painel mount", "ip65", "ip67",
-        "resistente a agua", "resistente a poeira", "industria", "automacao"]
+    ids_keywords = [
+        "monitor sem carcaça", "ip65", "touchscreen", "tela touch", "open frame monitor",
+        "curved monitor", "monitor curvo", "all-in-one", "tudo em um", "lcd monitor", "sistemas de display",
+        "industrial displays", "monitores industriais"
+    ]
 
-    idk_keywords = ["open frame", "display leve", "tela fina", "kit de display",
-        "display embutido", "modulo de tela", "display para integracao",
-        "sem moldura", "integracao personalizada", "OEM", "panel mount",
-        "display industrial", "touchscreen", "automacao", "manufatura"]
+    idk_keywords = [
+        "kit display industrial", "industrial display kit", "lcd panels", "open frame display",
+        "saude", "saúde", "healthcare", "hospital", "medicina", "médico", "medical", 
+        "clínica", "diagnóstico", "gaming"
+    ]
+
+    dsd_keywords = [
+        "digital signage", "sinalização digital", "publicidade digital", "outdoor",
+        "indoor", "totem", "kiosk", "quiosque", "advertising", "advertisement"
+    ]
 
     if any(k in prompt for k in epc_keywords):
         return "EPC"
@@ -101,28 +100,66 @@ def detectar_serie(prompt):
         return "IDS"
     if any(k in prompt for k in idk_keywords):
         return "IDK"
+    if any(k in prompt for k in dsd_keywords):
+        return "DSD"    
+    
     return None
+
+# ---------------------------
+# Filtragem por série detectada
+# ---------------------------
 
 def filtrar_por_serie_detectada(produtos, serie_detectada):
     if not serie_detectada:
         return produtos
-    return [p for p in produtos if p['nome'].upper().startswith(serie_detectada)]
+    
+    filtrados = [p for p in produtos if p['nome'].upper().startswith(serie_detectada)]
+    
+    # ❌ antes: se não achava, voltava todos → causava erro
+    # ✅ agora: se não achou nada, retorna vazio
+    return filtrados
 
-# Modelo de input
+# ---------------------------
+# Ranking fallback
+# ---------------------------
+
+def rank_produto(produto):
+    processador_peso = {"i3": 1, "i5": 2, "i7": 3, "i9": 4}
+    linha_peso = {"basic": 1, "x": 2, "premium": 3}
+
+    texto = f"{produto['nome']} {produto.get('desc', '')}".lower()
+
+    proc = max((p for p in processador_peso if p in texto), default=None)
+    peso_proc = processador_peso.get(proc, 0)
+
+    linha = max((l for l in linha_peso if l in texto), default=None)
+    peso_linha = linha_peso.get(linha, 0)
+
+    return peso_proc + peso_linha
+
+# ---------------------------
+# API
+# ---------------------------
+
 class UserInput(BaseModel):
     texto: str
 
-# Rota API
 @app.post("/recomendar")
 def recomendar(input: UserInput):
     texto_cliente = input.texto.lower()
+
     numeros_consulta = extrair_numeros(texto_cliente)
     serie_detectada = detectar_serie(texto_cliente)
-    
-    produtos_serie_filtrados = filtrar_por_serie_detectada(produtos, serie_detectada)
-    produtos_filtrados = filtrar_produtos_por_numeros(produtos_serie_filtrados, numeros_consulta)
 
-    model = get_model()
+    # força série detectada (não mistura mais outras linhas)
+    produtos_serie_filtrados = filtrar_por_serie_detectada(produtos, serie_detectada)
+    if not produtos_serie_filtrados:
+        return {"recomendados": []}
+
+    produtos_filtrados = filtrar_produtos_por_numeros(produtos_serie_filtrados, numeros_consulta)
+    if not produtos_filtrados:
+        return {"recomendados": []}
+
     produtos_textos_filtrados = [
         f"{p['nome']} {p['desc']} {' '.join(p['detalhes'])}" for p in produtos_filtrados
     ]
@@ -136,24 +173,14 @@ def recomendar(input: UserInput):
     input_embedding = model.encode([texto_cliente], convert_to_numpy=True)
     faiss.normalize_L2(input_embedding)
 
-    k = 6
+    k = min(6, len(produtos_filtrados))
     distances, indices = index_filtrado.search(input_embedding, k)
     recomendados = [produtos_filtrados[i] for i in indices[0]]
 
-    for p in recomendados:
-        if 'product_url' not in p or not p['product_url']:
-            p['product_url'] = "#"  
+    # fallback para consultas muito curtas
+    if len(texto_cliente.strip()) < 5 or len(texto_cliente.split()) < 3:
+        ordenados = sorted(produtos_filtrados, key=rank_produto)
+        if len(ordenados) >= 2:
+            recomendados = [ordenados[0], ordenados[-1]]
 
     return {"recomendados": recomendados}
-
-# Rota raiz para React
-@app.get("/")
-def raiz():
-    index_path = os.path.join("frontend", "build", "index.html")
-    return FileResponse(index_path)
-
-# Configuração uvicorn para Render
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    import uvicorn
-    uvicorn.run("main:app", host="0.0.0.0", port=port)
