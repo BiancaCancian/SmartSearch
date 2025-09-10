@@ -1,3 +1,7 @@
+## Projeto desenvolvido com o objetivo de otimizar processos, permitindo conhecer melhor os PCs Advantech e os casos de uso específicos de cada linha.
+
+![alt text](image.png)
+
 ## Pré-requisitos
 
 - [Python](https://www.python.org/downloads/)  
@@ -24,7 +28,7 @@ python -m venv venv
 
 - Ative o ambiente virtual:
 
-.venv\Scripts\activate
+ venv\Scripts\activate
 
 - Instale as dependências:
 
