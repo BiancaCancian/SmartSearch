@@ -1,52 +1,126 @@
-## Projeto desenvolvido com o objetivo de otimizar processos, permitindo conhecer melhor os PCs Advantech e os casos de uso específicos de cada linha.
+## Visão Geral do Projeto
+
+### O foco deste projeto foi o desenvolvimento de uma solução de busca inteligente de PCs, com o objetivo de otimizar tempo na tomada de decisão e facilitar a identificação do equipamento Advantech mais adequado para cada cenário.
+
+### A solução utiliza conceitos de Inteligência Artificial, dessa forma, é possível compreender melhor:
+
+- As linhas de PCs Advantech
+
+- Os casos de uso específicos de cada equipamento
+
+- As características técnicas mais relevantes para cada aplicação
+
+### O projeto foi desenvolvido com foco em otimização de processos, ganho de produtividade e apoio técnico comercial, tornando a consulta de informações mais rápida, inteligente e assertiva.
 
 ![alt text](image.png)
 
-## Pré-requisitos
 
-- [Python](https://www.python.org/downloads/)  
-- [Node.js](https://nodejs.org/)  
+##  Pré-requisitos
 
-Verifique as versões instaladas:
+Antes de iniciar, certifique-se de ter os seguintes itens instalados em sua máquina:
 
+* **Python** (preferencialmente a mesma versão utilizada no projeto)
+* **Node.js**
+* **Visual Studio Code (VS Code)**
+* **Git**
+
+###  Verificando versões
+
+No terminal ou prompt de comando, execute:
+
+```bash
 py --version
 node -v
+```
 
-## Clonar o Repositório
+---
+
+##  Clonando o repositório
+
+```bash
 git clone <URL_DO_REPOSITORIO>
+```
 
-cd <PASTA_DO_PROJETO>
+Após clonar:
 
-## Configurar o Ambiente Python
-- Acesse a pasta principal do projeto:
+1. Abra o **VS Code**
+2. Selecione **File > Open Folder**
+3. Abra a pasta do projeto clonado
 
-cd <PASTA_DO_PROJETO>
+---
 
-- Crie um ambiente virtual:
+##  Configurando o ambiente Python (Backend)
 
-python -m venv venv
+###  Acessar a pasta principal do projeto
 
-- Ative o ambiente virtual:
+```bash
+cd C:\Users\bianc\Downloads\Advantech\Advantech-main
+```
 
- venv\Scripts\activate
+> Ajuste o caminho conforme o local onde o projeto foi clonado.
 
-- Instale as dependências:
+###  Criar o ambiente virtual
 
+```bash
+py -m venv venv
+```
+
+###  Ativar o ambiente virtual
+
+```bash
+.\venv\Scripts\activate
+```
+
+---
+
+## Instalando dependências do backend
+
+Com o ambiente virtual ativo, execute:
+
+```bash
 pip install fastapi uvicorn pydantic sentence-transformers faiss-cpu numpy
+```
 
-- Para rodar a API FastAPI:
+### Executar o servidor backend
 
+```bash
 uvicorn main:app --reload
+```
 
-## Configurar e Executar Frontend
-- Acesse a pasta do frontend:
+O backend estará disponível em:
 
-cd frontend
+```
+http://localhost:8000
+```
 
-- Instale as dependências:
+###  Encerrar o ambiente virtual
 
+```bash
+deactivate
+```
+
+---
+
+##  Configurando o Frontend
+
+### Acessar a pasta do frontend
+
+```bash
+cd C:\Users\bianc\Downloads\Advantech\Advantech-main\frontend
+```
+
+###  Instalar dependências do Node.js
+
+```bash
 npm install
+```
 
-- Inicie o servidor de desenvolvimento:
+###  Executar o frontend
 
-npm run dev  
+```bash
+npm run dev
+```
+
+O frontend estará disponível no endereço exibido no terminal (geralmente `http://localhost:5173`).
+
+
