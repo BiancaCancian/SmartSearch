@@ -10,10 +10,10 @@
 
 - As características técnicas mais relevantes para cada aplicação
 
-### O projeto foi desenvolvido com foco em otimização de processos, ganho de produtividade e apoio técnico comercial, tornando a consulta de informações mais rápida, inteligente e assertiva.
+### O projeto simula como um cliente descreve um problema real, por exemplo, visão computacional em ambiente industrial, e a aplicação traduz isso em requisitos tecnicos, sugerindo o hardware Advantech mais adequado. 
+<img width="1348" height="595" alt="image" src="https://github.com/user-attachments/assets/6aa73a3e-03ac-4ff4-8ffb-907935aa9fe5" />
 
 ![alt text](image.png)
-
 
 ##  Pré-requisitos
 
